@@ -1,0 +1,284 @@
+---
+title: "Masato Mita, Ph.D."
+about:
+  id: heading
+  template: solana
+  image: figures/profile_2025.jpg
+  links:
+    - icon: envelope
+      text: e-mail
+      href: mailto:mita@g.ecc.u-tokyo.ac.jp
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/chemical_tree
+---
+
+:::{#heading}
+R&D Engineer @ Data Technology Lab, [Recruit Co.,Ltd.](https://www.recruit.co.jp/)
+
+Visiting Researcher @ [Social Computational Linguistics Group, Hitotsubashi University](https://hit.komachi.live/)
+
+Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/)
+
+:::
+
+:::{.callout-note}
+
+## News
+- [名古屋地区NLPセミナー](https://sites.google.com/site/nagoyanlpseminar/)にて「[心理言語学の視点から再考する言語モデルの学習過程](https://speakerdeck.com/chemical_tree/xin-li-yan-yu-xue-noshi-dian-karazai-kao-suruyan-yu-moderunoxue-xi-guo-cheng)」という題目で発表しました。
+- Our two papers ["Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition"](https://aclanthology.org/2025.acl-long.462/) and ["Targeted Syntactic Evaluation for Grammatical Error Correction"](https://arxiv.org/abs/2501.15875) have been accepted at ACL 2025.
+- 言語処理学会第31回年次大会（NLP2025）で主著論文「作業記憶の発達的特性が言語獲得の臨界期を形成する」が[最優秀賞](https://anlp.jp/nlp2025/award.html)を受賞しました。
+- Our paper "AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising" has been accepted to NAACL 2024.
+- Our two TACL papers will be presented at [EMNLP2024](https://2024.emnlp.org/) : one on a new meta-evaluation for GEC ([Kobayashi+2024](https://aclanthology.org/2024.tacl-1.47/)) and another on reducing reliance on shortcut prediction ([Honda+2024](https://aclanthology.org/2024.tacl-1.70/)).
+- CADC2024にて「[CAMERA-Suite: 広告文生成のための評価スイート](https://cadc.cyberagent.co.jp/2024/sessions/ai-camera-suite/)」を発表しました。
+- Our paper "DejaVu: Disambiguation evaluation dataset for English-JApanese machine translation on VisUal information" has been accepted to PACLIC 2024.
+- Our paper "Revisiting the Evaluation for Chinese Grammatical Error Correction" has been accepted to Journal of Advanced Computational Intelligence and Intelligent Informatics.
+- Our paper ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) has been accepted at TACL.
+- Our paper ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation"](https://arxiv.org/abs/2309.12030) has been accepted at ACL 2024.
+
+
+:::
+
+## Research Interest
+- Natural Language Processing
+    - Grammatical Error Correction, Resournce and Evaluation
+- Computational (Psycho)linguistics
+    - Language acquisition, Cognitive modeling
+
+## Publication (Featured)
+
+
+1. Aoimi Koyama, <u>Masato Mita</u>, Su-Youn Yoon, Yasufumi Takama, Mamoru Komachi. ["Targeted Syntactic Evaluation for Grammatical Error Correction."](https://aclanthology.org/2025.acl-long.1026/) Proceedings of the ACL 2025.
+
+1. <u>Masato Mita</u>, Ryo Yoshida, Yohei Oseki. ["Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition."](https://aclanthology.org/2025.acl-long.462/) Proceedings of the ACL 2025.
+
+
+1. Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. ["AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising."](https://aclanthology.org/2025.naacl-long.391/) Proceedings of the NAACL 2025.
+
+
+1. Ukyo Honda, Tatsushi Oka, Peinan Zhang, <u>Masato Mita</u>. ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) Transactions of the Association for Computational Linguistics (TACL).
+
+
+1. <u>Masato Mita</u>, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation."](https://aclanthology.org/2024.acl-long.54/) Proceedings of the ACL 2024.
+ 
+
+1. Masamune Kobayashi, <u>Masato Mita</u>, Mamoru Komachi. ["Revisiting Meta-evaluation for Grammatical Error Correction."](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00676/123651/Revisiting-Meta-evaluation-for-Grammatical-Error) Transactions of the Association for Computational Linguistics (TACL). 
+
+
+1. <u>Masato Mita</u>, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. ["Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond."](https://aclanthology.org/2024.bea-1.21/) Proceedings of the BEA 2024.
+
+
+1. <u>Masato Mita</u>, Hitomi Yanaka. ["Do Grammatical Error Correction Models Realize Grammatical Generalization?."](https://aclanthology.org/2021.findings-acl.399/) Findings of the ACL-IJCNLP 2021. 
+
+1. <u>Masato Mita</u>, Shun Kiyono, Masahiro Kaneko, Jun Suzuki, Kentaro Inui. ["A Self-Refinement Strategy for Noise Reduction in Grammatical Error Correction."](https://aclanthology.org/2020.findings-emnlp.26/) Findings of the EMNLP 2020.
+
+
+1. Masahiro Kaneko, <u>Masato Mita</u>, Shun Kiyono, Jun Suzuki, Kentaro Inui. ["Can Encoder-decoder Models Benefit from Pre-trained Language Representation in Grammatical Error Correction?."](https://aclanthology.org/2020.acl-main.391/) Proceedings of the ACL 2020. 
+
+
+1. Shun Kiyono, Jun Suzuki, <u>Masato Mita</u>, Tomoya Mizumoto, Kentaro Inui. ["An Empirical Study of Incorporating Pseudo Data to Grammatical Error Correction."](https://aclanthology.org/D19-1119/) Proceedings of EMNLP-IJCNLP 2019. 
+
+1. <u>Masato Mita</u>, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. ["Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?."](https://aclanthology.org/N19-1132/) Proceedings of the NAACL-HLT 2019.
+
+
+[ᐧᐧᐧ] Please refer to a full list of [Publications](publication.html)  
+
+## MISC
+
+::: {.panel-tabset}
+
+
+
+## Awards 
+1. [最優秀賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#best) (2025年3月) (<span class="custom-color">1件/765件</span>)
+1. [委員特別賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#committee) (2025年3月) (<span class="custom-color">32件/726件</span>)
+1. [委員特別賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#committee) (2025年3月) (<span class="custom-color">32件/726件</span>)
+
+1. [優秀賞, 言語処理学会第30回年次大会](https://anlp.jp/nlp2024/award.html#outstanding) (2024年3月)（<span class="custom-color">12件/599件</span>）
+
+1. [優秀研究賞, 情報処理学会第258回自然言語処理研究会](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/outstanding?authuser=0#h.19m46cbzp0rr) (2023年12月)
+
+1. [奨励賞, NLP若手の会 第18回シンポジウム](https://yans.anlp.jp/entry/award) (2023年8月)
+
+1. [委員特別賞, 言語処理学会第29回年次大会](https://anlp.jp/nlp2023/award.html#committee) (2023年3月)（<span class="custom-color">26件/579件</span>）
+
+1. [優秀賞, 言語処理学会第28回年次大会](https://anlp.jp/nlp2022/award.html#outstanding) (2022年3月)（<span class="custom-color">7件/386件</span>）
+
+1. [若手奨励賞, 言語処理学会第26回年次大会](https://www.anlp.jp/award/nenji.html#y2020) (2020年3月)（<span class="custom-color">13件/269件</span>）
+
+1. [優秀賞, 言語処理学会第26回年次大会](https://www.anlp.jp/award/nenji.html) (2020年3月)（<span class="custom-color">6件/396件</span>）
+
+1. [奨励賞, NLP若手の会 第14回シンポジウム](https://yans.anlp.jp/entry/award) (2019年8月)
+
+1. [萌芽研究賞, NLP若手の会 第14回シンポジウム](https://yans.anlp.jp/entry/award) (2019年8月)
+
+1. [奨励賞 (ハッカソン オープン部門), NLP若手の会 第9回シンポジウム](https://yans-previous.anlp.jp/modules/menu/main.php?page_id=110&op=change_page) (2014年9月)
+
+## Talk/Article
+
+
+1. [言語の本質？"](https://www.jstage.jst.go.jp/article/jnlp/32/3/32_960/_article/-char/ja) 自然言語処理 32巻3号. (2025.9) 
+
+1. [心理言語学の視点から再考する言語モデルの学習過程](https://speakerdeck.com/chemical_tree/xin-li-yan-yu-xue-noshi-dian-karazai-kao-suruyan-yu-moderunoxue-xi-guo-cheng). 名古屋地区NLPセミナー（2025.6）.
+1. ["NLP2025 ワークショップ：LLM時代のことばの評価の現在と未来"](https://www.jstage.jst.go.jp/article/jnlp/32/2/32_738/_article/-char/ja). 自然言語処理 32巻2号. (2025.6)
+1. ["サイエンスと事業貢献の両立を目指して"](https://www.jstage.jst.go.jp/article/jnlp/31/4/31_1780/_article/-char/ja) 自然言語処理 31巻4号. (2024.12) 
+1. ["国際会議ACL2024参加報告"](https://speakerdeck.com/chemical_tree/guo-ji-hui-yi-acl2024can-jia-bao-gao). 第26回音声言語シンポジウム(SP/SLP) 兼 第11回自然言語処理シンポジウム(NL/NLC). (2024.12)
+1. ["CAMERA-Suite: 広告文生成のための評価スイート"](https://cadc.cyberagent.co.jp/2024/sessions/ai-camera-suite/)」. CyberAgent Developer Conference (CADC2024). (2024.10) [[動画](https://www.youtube.com/watch?v=Zx8a7M8k-3w)][[資料](https://speakerdeck.com/cyberagentdevelopers/ai-camera-suite)]
+1. ["【採択論文紹介】広告文生成タスクの既定とベンチマーク構築 (ACL2024)"](https://cyberagent.ai/blog/research/%e6%8e%a1%e6%8a%9e%e8%ab%96%e6%96%87%e7%b4%b9%e4%bb%8b/20053/). CyberAgent Blog.（2024.10）
+
+1. ["NLP2024 テーマセッション「人間と計算機のことばの評価」"](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_755/_article/-char/ja). 自然言語処理 31巻2号. (2024.6)
+
+1. ["NLP2023 テーマセッション「ことばの評価と品質推定」."](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_844/_article/-char/ja). 自然言語処理 30巻2号. (2023.6) 
+
+1. ["NLP2023参加報告."](https://moneyforward.connpass.com/event/276611/) NLP2023 参加報告会 presented by Money Forward Lab
+
+1. ["日本経済新聞「やっぱり変だよ、日本の教育4」"](https://www.nikkei.com/article/DGKKZO65710890U2A101C2PE8000/?gift=g2ls5jZG38qjIxNzU5NjM5NjmkbDVpNqBkAQ.HlLw-mZt&fbclid=IwAR3cqVBh96HL29g8kHAj_mmhyePAdBKk9cRaCGDlwPzgmPEsYMZnfSFBDVc)（2022年11月4日）
+
+
+1. ["企業にいながらアカデミアのように働く."](https://cyberagent.ai/blog/research/17023/) CyberAgent Blog.（2022.7）
+
+
+1. ["ライティング支援のための文法誤り訂正."](https://speakerdeck.com/chemical_tree/raiteinguzhi-yuan-falsetamefalsewen-fa-wu-riding-zheng) 株式会社NTTドコモ 招待講演.（2022.2）
+
+
+1. ["Do Grammatical Error Correction Models Realize Grammatical Generalization?."](https://www.jstage.jst.go.jp/article/jnlp/28/4/28_1331/_article/-char/ja) 自然言語処理 28巻4号. (2021.12) 
+
+
+1. 文法誤り訂正モデルの文法性評価と論述リライトタスクの提案. 第19回 NLP東京Dの会. （2021.3）
+
+
+1. ["ライティング学習支援のための文法誤り訂正技術の現状と今後の展望."]((https://aip.riken.jp/uploads/1-3_aip-edusympo_mita.pdf)) 教育アセスメント×言語処理シンポジウム : 自動採点、英文添削、論述評価の可能性.（2020.12）
+
+
+1. 文法誤り訂正の評価に対する問題提起. 第17回 NLP東京Dの会.（2019.6.）
+
+
+## Book/Course
+
+1. ["大規模言語モデルとは何か."](https://www.tkd-pbl.com/book/b10033618.html) 現代化学2023年9月号. 
+
+1. ["深層学習による自然言語処理の理論と実践."](https://coloso.jp/products/researchscientist-mita-jp) Coloso. 
+
+## Resource
+- [AdPsyche (NLP2025)](https://github.com/CyberAgentAILab/AdPsyche)
+    - Japanese preference dataset based on advertising psychology
+- [LCTG Bench（NLP2024）](https://github.com/CyberAgentAILab/LCTG-Bench)
+    - Benchmark to measure the controllability of Japanese LLMs in terms of how well they comply with constraints such as character count keywords in instructions
+- [CAMERA3 (LREC-COLING 2024)](https://github.com/CyberAgentAILab/camera3) 
+    - Evaluation dataset for controllable ad text generation in Japanese
+- [SEEDA (TACL 2024)](https://github.com/tmu-nlp/SEEDA) 
+    - Sentence-based and edit-based human evaluation dataset for GEC
+- [CAMERA (ACL 2024)](https://github.com/CyberAgentAILab/camera)
+    - Multimodal dataset for ad text generation in Japanese
+- [TETRA (BEA2024)](https://github.com/chemicaltree/tetra) 
+    - Document revision corpus    
+- [JaLeCoN (BEA 2023)](https://github.com/naist-nlp/jalecon) 
+    - Dataset of Japanese lexical complexity for non-native readers
+- [ClozEx (EMNLP 2023, Findings)](https://github.com/zz-zhang/ClozEx)
+    - Dataset for a task of generation of English cloze explanation
+- [CELA (EACL 2023, Findings)](https://github.com/zz-zhang/cloze-quality-estimation)
+    - Datast for cloze quality estimation
+
+- [ProQE (LREC 2022)](https://github.com/tmu-nlp/ProQE)
+    - Proficiency-wise quality estimation dataset
+- [敬語変換タスクにおける評価用データセット (JSAI 2022)](https://github.com/cl-tohoku/keigo_transfer_task)
+    - 日本語学習者支援のための敬語変換タスクにおける評価用データセット
+
+- [FLUTEC (NLP 2022)](https://github.com/kiyama-hajime/FLUTEC)
+     - Evaluation dataset for Japanese grammatical error correction on fluency edits
+- [PheMT (COLING 2020)](https://github.com/cl-tohoku/PheMT)
+    - Phenomenon-wise dataset designed for evaluating the robustness of Japanese-English machine translation systems
+- [GitHub Typo Corpus (LREC 2020)](https://github.com/mhagiwara/github-typo-corpus)
+    - Large-scale multilingual dataset of misspellings and grammatical errors
+
+
+## Trajectory of Challenges
+- TEA2015 (sub) → <span class="custom-color">Accepted</span>
+- EMNLP2015 (main) → Rejected
+- ACL2016 (main) → Rejected
+- NAACL2019 (main) → <span class="custom-color">Accepted</span>
+- BEA2019 (sub) → <span class="custom-color">Accepted</span>
+- EMNLP2019 (sub) → <span class="custom-color">Accepted</span>
+- LREC2020 (sub) → <span class="custom-color">Accepted</span>
+- ACL2020 (main) → Withdraw
+- ACL2020 (sub) ×2 → <span class="custom-color">Accepted ×1</span>, Rejected ×1
+- ACL-SRW2020 (sub) → <span class="custom-color">Accepted</span>
+- EMNLP2020 (main) → <span class="custom-color">Accepted (Findings)</span>
+- COLING2020 (sub) ×2 → <span class="custom-color">Accepted ×2</span>
+- ACL2021 (main) → <span class="custom-color">Accepted (Findings)</span>
+- JNLP2021 (main) → <span class="custom-color">Accepted</span>
+- JNLP2021 (sub) → <span class="custom-color">Accepted</span>
+- JNLP2022 (sub) → <span class="custom-color">Accepted</span>
+- LREC2022 (sub) ×2 → <span class="custom-color">Accepted ×2</span>
+- EMNLP2022 (main) → <span class="custom-color">Accepted (Findings)</span> → Withdraw
+- TALIP2023 (sub) → <span class="custom-color">Accepted</span>
+- JNLP2023 (sub) → <span class="custom-color">Accepted</span>
+- ACL2023 (main) → Rejected
+- BEA2023 (sub) → <span class="custom-color">Accepted</span>
+- EACL2023 (sub) → <span class="custom-color">Accepted (Findings)</span>
+- EMNLP2023 (sub) → <span class="custom-color">Accepted (Findings)</span>
+- AACL2023 (main) → Rejected
+- JNLP2024 (sub) → <span class="custom-color">Accepted</span>
+- LREC-COLING2024 (sub) ×3 → <span class="custom-color">Accepted ×2</span>, Rejected ×1
+- TACL2024 (sub) ×3 → <span class="custom-color">Accepted ×2</span>, Rejected ×1
+- BEA2024 (main) → <span class="custom-color">Accepted</span>
+- BEA2024 (sub) → <span class="custom-color">Accepted</span>
+- ACL2024 (main) → <span class="custom-color">Accepted</span>
+- ACL2024 (sub) → Rejected
+- ACL-SRW2024 (sub)×2 → Rejected ×2
+- INLG2024 (sub) → Rejected
+- COLM2024 (sub) → Rejected
+- NeurIPS2024 D&B Track (sub) → Rejected
+- JACIII2024 (sub) → <span class="custom-color">Accepted</span>
+- PACLIC2024 (sub) → <span class="custom-color">Accepted</span>
+- NAACL2025 (sub) → <span class="custom-color">Accepted</span>
+- ACL2025 (main) → <span class="custom-color">Accepted</span>
+- ACL2025 (sub)×2 → <span class="custom-color">Accepted ×1</span>, Rejected ×1
+- EMNLP2025 (sub)×2 → <span class="custom-color">Accepted (Findings)</span>, Rejected ×1
+- BlaxboxNLP (sub) → Rejected
+
+
+:::
+
+
+## Academic Services
+### Organizer
+#### Current
+
+1. [ACL Rolling Review (ARR), Senior Action Editor](https://aclrollingreview.org/saes) 
+1. [言語処理学会, 年次大会, プログラム委員](https://anlp.jp/nlp2025/#committee)
+1. [言語処理学会, 自然言語処理論文誌, 編集委員](https://www.anlp.jp/guide/editors.html) 
+1. [言語処理学会, YANSシンポジウム, 運営委員](https://yans.anlp.jp/entry/yans2024members) 
+1. [情報処理学会, 自然言語処理研究会, 運営委員]((https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0)) 
+
+#### Past
+1. [GenChal2022:FCG, Organizer](https://nagata-github.github.io/fcg_genchal/) (2019-2023)
+
+### Reviewer
+CL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA ...etc.
+
+
+## Research Grants
+1. 科研費 基盤B「深層学習による言語生成の評価データセットの構築と品質推定」, 共同研究者（代表者: 小町守）
+
+
+
+
+
+## Work Experience
+- 2025.5 - Present [Recruit Co.,Ltd.](https://www.recruit.co.jp/), R&D Engineer
+- 2025.4 - Present [Hitotsubashi University](https://www.hit-u.ac.jp/), Visiting Researcher
+- 2022.7 - Present [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Visiting Researcher 
+- 2022.6 - 2025.4 [CyberAgent, Inc.](https://cyberagent.ai/ailab/), Research Scientist 
+- 2021.10 - 2025.3 [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Project Assistant Professor
+- 2019.10 - 2020.12 [Megagon Labs](https://www.megagon.ai/jp/), Contract Researcher
+- 2018.2 - 2022.5 [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Researcher 
+- 2016.4 - 2018.1 [Microsoft Japan](https://www.microsoft.com/ja-jp), Engineer
+- 2015.10 - 2015.12 [Rakuten Institute of Technology - New York (RIT-NY)](https://rit.rakuten.com/), Part-time Researcher
+- 2014.8 - 2014.8 [NTT Communication Science Laboratories](https://www.rd.ntt/e/cs/), Part-time Researcher
+
+## Education
+- 2024.4 - Present Ph.D student in [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) (Supervisor: Associate prof. Yohei Oseki)
+- 2018.10  - 2021.9  Ph.D. in Information Science, [Tohoku University](https://www.tohoku.ac.jp/japanese/) (Supervisor: Prof. Kentaro Inui)
+- 2014.4 - 2016.3  M.S. in Engineering, [Nara Institute of Science and Technology (NAIST)](https://www.naist.jp/) (Supervisor: Prof. Yuji Matsumoto)
+- 2010.4 - 2014.3  B.A. , [Prefectural University of Hiroshima](https://www.pu-hiroshima.ac.jp/)

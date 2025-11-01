@@ -1,0 +1,209 @@
+---
+title: "Publications"
+format: html
+---
+
+See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ&hl=en), [ACL Anthology](https://aclanthology.org/people/m/masato-mita/), and [researchmap](https://researchmap.jp/masato-mita).
+
+
+## Preprint
+
+1. Kentaro Kurihara, Masato Mita, Peinan Zhang, Shota Sasaki, Ryosuke Ishigami, Naoaki Okazaki. ["LCTG Bench: LLM Controlled Text Generation Benchmark"](https://arxiv.org/abs/2501.15875). arXiv:2501.15875
+
+
+1. Akihiko Kato, Masato Mita, Soichiro Murakami, Ukyo Honda, Sho Hoshino, Peinan Zhang. ["FaithCAMERA: Construction of a Faithful Dataset for Ad Text Generation"](https://arxiv.org/abs/2410.03839). arXiv:2410.03839
+
+## International Conference
+
+1. Hiroto Otake, Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. BannerBench: Benchmarking Vision Language Models for Multi-Ad Selection with Human Preferences. Findings of EMNLP 2025.
+
+
+1. Aoimi Koyama, <u>Masato Mita</u>, Su-Youn Yoon, Yasufumi Takama, Mamoru Komachi. ["Targeted Syntactic Evaluation for Grammatical Error Correction."](https://aclanthology.org/2025.acl-long.1026/) Proceedings of the ACL 2025.
+
+1. <u>Masato Mita</u>, Ryo Yoshida, Yohei Oseki. ["Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition."](https://aclanthology.org/2025.acl-long.462/) Proceedings of the ACL 2025.
+
+
+1. Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. ["AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising."](https://aclanthology.org/2025.naacl-long.391/) Proceedings of the NAACL 2025.
+
+1. Ayako Sato, Tosho Hirasawa, Hwichan Kim, Zhousi Chen, Teruaki Oka, <u>Masato Mita</u>, Mamoru Komachi. ["DejaVu: Disambiguation evaluation dataset for English-JApanese machine translation on VisUal information."](https://aclanthology.org/2024.paclic-1.50/) Proceedings of the PACLIC 2024.
+
+1. <u>Masato Mita</u>, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation."](https://aclanthology.org/2024.acl-long.54/) Proceedings of the ACL 2024.
+
+1. Masamune Kobayashi, <u>Masato Mita</u>, Mamoru Komachi. ["Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction."](https://aclanthology.org/2024.bea-1.6/) Proceedings of the BEA 2024.
+
+1. <u>Masato Mita</u>, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. ["Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond."](https://aclanthology.org/2024.bea-1.21/) Proceedings of the BEA 2024.
+
+
+1. Go Inoue, Akihiko Kato, <u>Masato Mita</u>, Ukyo Honda and Peinan Zhang. ["CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese."](https://aclanthology.org/2024.lrec-main.242/) Proceedings of the LREC-COLING 2024.
+
+1. 	Naoya Ueda, <u>Masato Mita</u>, Teruaki Oka and Mamoru Komachi. ["Token-length Bias in Minimal-pair Paradigm Datasets."](https://aclanthology.org/2024.lrec-main.1410/) Proceedings of the LREC-COLING 2024.
+
+
+
+1. Zizheng Zhang, <u>Masato Mita</u>, Mamoru Komachi. ["ClozEx: A Task toward Generation of English Cloze Explanation."](https://aclanthology.org/2023.findings-emnlp.347/) Findings of the EMNLP 2023.
+
+1. Ryo Nagata, Masato Hagiwara, Kazuaki Hanawa, <u>Masato Mita</u>. ["A Report on FCG GenChal 2022: Shared Task on Feedback Comment Generation for Language Learners."](https://sigdialinlg2023.github.io/static/papers/genchal/130.pdf) Proceedings of the INLG 2023. 
+
+1. Yusuke Ide, <u>Masato Mita</u>, Adam Nohejl, Hiroki Ouchi, and Taro Watanabe. ["Japanese Lexical Complexity for Non-Native Readers: a New Dataset."](https://aclanthology.org/2023.bea-1.40/) Proceedings of the BEA 2023. 
+
+1. Zizheng Zhang, <u>Masato Mita</u>, Mamoru Komachi. ["Cloze Quality Estimation for Language Assessment."](https://aclanthology.org/2023.findings-eacl.39/)  Findings of EACL 2023.
+
+1. Yujin Takahashi, Masahiro Kaneko, <u>Masato Mita</u>, Mamoru Komachi. ["ProQE: Proficiency-wise Quality Estimation dataset for Grammatical Error Correction"](https://aclanthology.org/2022.lrec-1.644/) Proceedings of the LREC 2022. 
+
+1. Daisuke Suzuki, Yujin Takahashi, Ikumi Yamashita, Taichi Aida, Tosho Hirasawa, Michitaka Nakatsuji, <u>Masato Mita</u>, Mamoru Komachi. ["Construction of a Quality Estimation Dataset for Automatic Evaluation of Japanese Grammatical Error Correction."](https://aclanthology.org/2022.lrec-1.596/) Proceedings of the LREC 2022. 
+
+1. Ryo Nagata, Masato Hagiwara, Kazuaki Hanawa, <u>Masato Mita</u>, Artem Chernodub, Olena Nahorna. ["Shared Task on Feedback Comment Generation for Language Learners."](https://aclanthology.org/2021.inlg-1.35/) Proceedings of the INLG 2021.
+
+
+
+1. <u>Masato Mita</u>, Hitomi Yanaka. ["Do Grammatical Error Correction Models Realize Grammatical Generalization?."](https://aclanthology.org/2021.findings-acl.399/) Findings of the ACL-IJCNLP 2021. 
+
+
+1. Takumi Gotou, Ryo Nagata, <u>Masato Mita</u>, Kazuaki Hanawa. ["Taking the Correction Difficulty into Account in Grammatical Error Correction Evaluation."](https://aclanthology.org/2020.coling-main.188/) Proceedings of the COLING 2020.
+
+1. Ryo Fujii, <u>Masato Mita</u>, Kaori Abe, Kazuaki Hanawa, Makoto Morishita, Jun Suzuki, Kentaro Inui. ["PheMT: A Phenomenon-wise Dataset for Machine Translation Robustness on User-Generated Contents."](https://aclanthology.org/2020.coling-main.521/) Proceedings of the COLING 2020. 
+
+1. <u>Masato Mita</u>, Shun Kiyono, Masahiro Kaneko, Jun Suzuki, Kentaro Inui. ["A Self-Refinement Strategy for Noise Reduction in Grammatical Error Correction."](https://aclanthology.org/2020.findings-emnlp.26/) Findings of the EMNLP 2020.
+
+1. Hiroaki Funayama, Shota Sasaki, Yuichiro Matsubayashi, Tomoya Mizumoto, Jun Suzuki, <u>Masato Mita</u>, Kentaro Inui. ["Preventing Critical Scoring Errors in Short Answer Scoring with Confidence Estimation."](https://aclanthology.org/2020.acl-srw.32/) Proceedings of the ACL SRW 2020. 
+
+1. Masahiro Kaneko, <u>Masato Mita</u>, Shun Kiyono, Jun Suzuki, Kentaro Inui. ["Can Encoder-decoder Models Benefit from Pre-trained Language Representation in Grammatical Error Correction?."](https://aclanthology.org/2020.acl-main.391/) Proceedings of the ACL 2020. 
+
+1. Masato Hagiwara, <u>Masato Mita</u>. ["GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors."](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.835) Proceedings of the LREC 2020.
+
+1. Shun Kiyono, Jun Suzuki, <u>Masato Mita</u>, Tomoya Mizumoto, Kentaro Inui. ["An Empirical Study of Incorporating Pseudo Data to Grammatical Error Correction."](https://aclanthology.org/D19-1119/) Proceedings of EMNLP-IJCNLP 2019. 
+
+1. Hiroki Asano,  <u>Masato Mita</u>, Tomoya Mizumoto, Jun Suzuki. ["The AIP-Tohoku System at the BEA-2019 Shared Task."](https://aclanthology.org/W19-4418/) Proceedings of the BEA 2019. <span class="custom-color">🏆 2nd place at the unrestricted track</span> 
+
+1. <u>Masato Mita</u>, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui.  ["Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?."](https://aclanthology.org/N19-1132/) Proceedings of the NAACL-HLT 2019.
+
+1. Tomoya Mizumoto, <u>Masato Mita</u>, Yuji Matsumoto. ["Grammatical Error Correction Considering Multi-word Expressions."](https://aclanthology.org/W15-4412/) Proceedings of the TEA 2015. 
+
+
+## Journal
+1. Hongfei Wang, Zhousi Chen, Zizheng Zhang, Zhidong Ling, Xiaomeng Pan, Wenjie Duan, <u>Masato Mita</u>, Mamoru Komachi. ["Revisiting the Evaluation for Chinese Grammatical Error Correction."](https://www.jstage.jst.go.jp/article/jaciii/28/6/28_1380/_article/-char/ja/) Journal of Advanced Computational Intelligence and Intelligent Informatics. Vol.28, No.6.
+
+1. Ukyo Honda, Tatsushi Oka, Peinan Zhang, <u>Masato Mita</u>. ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) Transactions of the Association for Computational Linguistics (TACL). 
+
+1. Masamune Kobayashi, <u>Masato Mita</u>, Mamoru Komachi. ["Revisiting Meta-evaluation for Grammatical Error Correction."](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00676/123651/Revisiting-Meta-evaluation-for-Grammatical-Error) Transactions of the Association for Computational Linguistics (TACL). 
+
+1. Zizheng Zhang, <u>Masato Mita</u>, Mamoru Komachi. ["Cloze Quality Estimation for Language Assessment."](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_328/_article/-char/ja) Journal of Natural Language Processing (in Japanese) Vol.31, No.2. 
+
+1. Aomi Koyama, Tomoshige Kiyuna, Kenji Kobayashi, Mio Arai, <u>Masato Mita</u>, Teruaki Oka and Mamoru Komachi. ["Construction of an Error-Tagged Evaluation Corpus for Japanese Grammatical Error Correction."](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_330/_article/-char/ja) Journal of Natural Language Processing (in Japanese) Vol.30, No.2.
+
+1. Hongfei Wang, Michiki Kurosawa, Satoru Katsumata,  <u>Masato Mita</u>, Mamoru Komachi. ["Chinese Grammatical Error Correction Using Pre-trained Models and Pseudo Data."](https://dl.acm.org/doi/10.1145/3570209) Transactions on Asian and Low-Resource Language Information Processing (TALIP). 
+
+
+1. Ikumi Yamashita, Masahiro Kaneko, <u>Masato Mita</u>, Satoru Katsumata, Aizhan Imankulova, Mamoru Komachi. ["Grammatical Error Correction with Pre-trained Model and Multilingual Learner Corpus for Cross-lingual Transfer Learning."](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_314/_article/-char/ja/) Journal of Natural Language Processing (in Japanese) Vol.29, No.2. 
+
+1. Ryo Fujii, <u>Masato Mita</u>, Kaori Abe, Kazuaki Hanawa, Makoto Morishita, Jun Suzuki, Kentaro Inui. ["Phenomenon-wise Evaluation Dataset Towards Analyzing Robustness of Machine Translation Models."](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_450/_article/-char/ja/) Journal of Natural Language Processing (in Japanese) Vol.28, No.2.  
+
+
+1. <u>Masato Mita</u>, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. ["Cross-Sectional Evaluation of Grammatical Error Correction Models."](https://www.jstage.jst.go.jp/article/jnlp/28/1/28_160/_article/-char/ja) Journal of Natural Language Processing (in Japanese) Vol.28, No.1.
+
+## Domestic Conference
+
+1. 山口美咲, <u>三田雅人</u>, 大関洋平. 大規模言語モデルによる人間の表記認知の定量化. 第20回YANSシンポジウム (YANS2025).
+
+1. 大竹啓永, 張培楠,  坂井優介, <u>三田雅人</u>, 大内啓樹, 渡辺太郎. "広告画像ランキングによる視覚言語モデルの評価." 言語処理学会第31回年次大会(NLP2025)  
+
+1. 本多右京, 岡達志, 張培楠, <u>三田雅人</u>. "Mixture-of-Expertsの悲観的な統合による頑健な自然言語理解." 言語処理学会第31回年次大会(NLP2025) <span class="custom-color">🏆 委員特別賞</span>
+
+1. 加藤明彦, <u>三田雅人</u>, 村上聡一郎, 本多右京, 星野翔, 張培楠. "FaithCAMERA: 広告文生成タスクのための忠実性を担保した評価データセットの構築." 言語処理学会第31回年次大会(NLP2025) <span class="custom-color">🏆 委員特別賞</span>
+
+1. <u>三田雅人</u>, 吉田遼, 深津聡世, 大関洋平. ["作業記憶の発達的特性が言語獲得の臨界期を形成する."](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/B4-6.pdf) 言語処理学会第31回年次大会(NLP2025) [[Errata](https://drive.google.com/file/d/1mXH9P6QUwV0HRGt5Z2KCQg4qfmwXlAiL/view?usp=sharing)] [[発表資料](https://speakerdeck.com/chemical_tree/zuo-ye-ji-yi-nofa-da-de-te-xing-gayan-yu-huo-de-nolin-jie-qi-woxing-cheng-suru-nlp2025)] <span class="custom-color">🏆 最優秀賞</span>
+
+1. <u>三田雅人</u>, 村上聡一郎, 本多右京, 岡達志. "AdPsyche: 広告心理学に基づく選好データセット" 言語処理学会第31回年次大会(NLP2025)
+
+1. 佐藤郁子, 金輝燦, 陳宙斯, <u>三田雅人</u>, 小町守. "アライメントが大規模言語モデルの数値バイアスに与える影響" 言語処理学会第31回年次大会(NLP2025)  
+
+
+1. 佐藤郁子, 金輝燦, 陳宙斯, <u>三田雅人</u>, 小町守. テキスト評価におけるLLMアラインメント手法の影響分析. 第19回YANSシンポジウム (YANS2024).
+
+1. 栗原 健太郎, <u>三田 雅人</u>, 張 培楠, 佐々木 翔太, 石上 亮介, 岡崎 直観. "LCTG Bench: 日本語 LLM の制御性ベンチマークの構築." 言語処理学会第30回年次大会 (NLP2024).
+
+1. 上田 直生也, <u>三田 雅人</u>, 小町 守. "Minimul-pair Paradigmデータセットにおけるトークン長バイアスの分析と改善." 言語処理学会第30回年次大会 (NLP2024).
+
+1. 小林 正宗, <u>三田  雅人</u>, 小町 守. "文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性." 言語処理学会第30回年次大会 (NLP2024). <span class="custom-color">🏆 優秀賞</span>
+
+1. Zizheng Zhang, <u>Masato Mita</u>, Mamoru Komachi. "A Task of Cloze Explanation Generation for ESL Learning." 言語処理学会第30回年次大会 (NLP2024).
+
+
+1. 小林 正宗, <u>三田 雅人</u>, 小町 守. "文法誤り訂正におけるメタ評価の再考." 第258回自然言語処理研究会 <span class="custom-color">🏆 優秀研究賞</span>
+
+
+1. 栗原 健太郎, 佐々木 翔大, 張 培楠, 石上 亮介, <u>三田 雅人</u>, 加藤 明彦. "日本語LLMベンチマーク構築に向けて." NLP若手の会第18回シンポジウム (YANS2023). <span class="custom-color">🏆 奨励賞</span>
+
+1. <u>三田 雅人</u>, 本多 右京, 張 培楠. "英語広告文生成のためのペルソナ型評価基盤の構築に向けて." NLP若手の会第18回シンポジウム (YANS2023).
+
+1. 上田 直生也, <u>三田 雅人</u>, 小町 守. "文法性評価ベンチマークBLiMPにおけるバイアス除去." NLP若手の会第18回シンポジウム (YANS2023).
+
+
+1. <u>三田 雅人</u>, 村上 聡一朗, 張 培楠. ["広告文生成タスクの規定とベンチマーク構築."](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H11-4.pdf) 言語処理学会第29回年次大会 (NLP2023). <span class="custom-color">🏆 委員特別賞</span>
+
+1. 加藤 明彦, 大田 和寛, 村上 聡一朗, <u>三田 雅人</u>, 本多 右京, 張 培楠. ["広告データセットに内在する幻覚の分析."](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q4-12.pdf) 言語処理学会第29回年次大会 (NLP2023).
+
+1. 張 培楠, 坂井 優介, <u>三田 雅人</u>, 大内 啓樹, 渡辺 太郎. ["AdGLUE: 広告言語理解ベンチマーク."](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D5-4.pdf) 言語処理学会第29回年次大会 (NLP2023).
+
+1. 小山 碧海, 喜友名 朝視顕, <u>三田 雅人</u>, 岡 照晃, 小町 守. "日本語文法誤り訂正評価コーパスへの誤用タグ付け." 第253回自然言語処理研究会.
+
+1. 五藤 巧, 永田 亮, <u>三田 雅人</u>. "文法誤り訂正における訂正難易度の判別可能性." 第252回自然言語処理研究会. <span class="custom-color">🏆 若手奨励賞（筆頭著者のみ受賞）</span>
+
+
+1. 松本 悠太, 林崎 由, 北山 晃太郎, 舟山 弘晃, <u>三田 雅人</u>, 乾健太郎. ["日本語学習者支援のための敬語変換タスクの提案."](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_3Yin239/_article/-char/ja/) 第36回人工知能学会全国大会.
+
+1. <u>三田 雅人</u>, 坂口 慶祐, 萩原 正人, 水本 智也, 鈴木 潤, 乾 健太郎. ["論述リビジョンのためのメタ評価基盤."](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E3-3.pdf) 言語処理学会第28回年次大会 (NLP2022). <span class="custom-color">🏆 優秀賞</span>
+
+1. 木山 朔, 上坂 奏人, 佐藤 郁子, 佐藤 京也, 米田 悠人, 小山 碧海, <u>三田 雅人</u>, 岡 照晃, 小町 守. ["日本語文法誤り訂正の流暢性評価に向けたデータ作成."](日本語文法誤り訂正の流暢性評価に向けたデータ作成) 言語処理学会第28回年次大会 (NLP2022). <span class="custom-color">🏆 若手奨励賞（筆頭著者のみ受賞）</span>
+
+
+1. 小林 正宗, 高橋 悠進, <u>三田 雅人</u>, 小町 守. ["ニューラル文法誤り訂正システムにおけるリランキングの改善に向けたオラクル分析."](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G4-2.pdf) 言語処理学会第28回年次大会 (NLP2022).
+
+1. 北山 晃太郎, 松本 悠太, 舟山 弘晃, 松林 優一郎, <u>三田 雅人</u>, 乾 健太郎. "日本語学習者支援のための敬語誤り訂正タスクの提案." NLP若手の会第16回シンポジウム (YANS2021).
+
+1. 五藤 巧, 永田 亮, <u>三田 雅人</u>. "文法誤りの訂正難易度の判別における人とシステムの一致調査." NLP若手の会第16回シンポジウム (YANS2021).
+
+1. <u>三田 雅人</u>, 萩原 正人, 坂口 慶祐, 水本 智也, 鈴木 潤, 乾 健太郎. "論述リライトタスクの提案と自動評価の実現に向けて."" 言語処理学会第27回年次大会 (NLP2021) ワークショップ「文章の評価と品質推定」.
+
+1. <u>三田 雅人</u>, 谷中 瞳. ["文法誤り訂正モデルは訂正に必要な文法を学習しているか."](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D4-4.pdf) 言語処理学会第27回年次大会 (NLP2021).
+
+1. <u>三田 雅人</u>, 谷中 瞳. "文法誤り訂正モデルは文法知識を汎化しているか." NLP若手の会第15回シンポジウム (YANS2020).
+
+1. 松本 悠太, 藤井 諒, 阿部 香央莉, 舟山 弘晃, <u>三田 雅人</u>. "漢字の意味構造を考慮した複数のニューラル漢字創作システムの比較検討." NLP若手の会第15回シンポジウム (YANS2020).
+
+1. 藤井 諒, <u>三田 雅人</u>, 阿部 香央莉, 塙 一晃, 森下 睦, 鈴木 潤, 乾 健太郎. ["ユーザ生成コンテンツの高品質な自動翻訳に向けた言語現象の体系的分析."](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3Rin426/_article/-char/ja/) 第34回人工知能学会全国大会.
+
+1. 舟山 弘晃, 佐々木 翔太, 水本 智也, <u>三田 雅人</u>, 鈴木潤, 松林優一郎, 乾健太郎. ["記述式答案自動採点のための確信度推定手法の検討."](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/D4-3.pdf) 言語処理学会第26回年次大会 (NLP2020).
+
+1. 五藤 巧, 永田 亮, <u>三田 雅人</u>, 塙 一晃. ["訂正難易度を考慮した文法誤り訂正のための性能評価尺度."](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P2-3.pdf)  言語処理学会第26回年次大会 (NLP2020).
+
+1. 清野 舜, 鈴木 潤, <u>三田 雅人</u>, 水本 智也, 乾 健太郎. ["大規模疑似データを用いた高性能文法誤り訂正モデルの構築."](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/D4-1.pdf) 言語処理学会第26回年次大会 (NLP2020). <span class="custom-color">🏆 優秀賞</span>
+
+
+1. <u>三田 雅人</u>, 清野 舜, 金子 正弘, 鈴木 潤, 乾 健太郎. ["文法誤り訂正のための自己改良戦略に基づくノイズ除去."](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/D4-2.pdf) 言語処理学会第26回年次大会 (NLP2020). <span class="custom-color">🏆 若手奨励賞（筆頭著者のみ受賞）</span>
+
+1. <u>Masato Mita</u>, Masato Hagiwara, Keisuke Sakaguchi, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. "Automated Essay Rewriting (AER): Grammatical Error Correction, Fluency Edits, and Beyond." 第241回自然言語処理研究会.
+
+1. 舟山弘晃, 佐々木翔太, 水本智也, <u>三田雅人</u>,  鈴木潤, 乾健太郎. "自動採点における確信度推定手法." NLP若手の会 第14回シンポジウム (YANS2019).
+
+1. 五藤 巧, 永田 亮, <u>三田 雅人</u>, 塙 一晃, 水本 智也. "文法誤り訂正における問題の難しさを考慮した性能評価尺度の提案." NLP若手の会第14回シンポジウム (YANS2019). <span class="custom-color">🏆 萌芽研究賞</span>
+
+1. 藤井 諒, 舟山 弘晃,  北山 晃太郎, 阿部 香央莉, Ana brassard, <u>三田 雅人</u>, 大内 啓樹. "seq2seqによる部首を考慮したニューラル漢字生成システム." NLP若手の会 第14回シンポジウム (YANS2019).
+
+1. 金子 正弘, <u>三田 雅人</u>, 鈴木 潤, 乾 健太郎. "コロケーション・イディオム誤りを考慮した文法誤り訂正のための擬似データ生成." NLP若手の会第14回シンポジウム (YANS2019).
+
+1. 藤井 諒, 阿部 香央莉, 塙 一晃, <u>三田 雅人</u>, 鈴木 潤, 乾 健太郎. "文法誤りに頑健な機械翻訳システムの実現に向けた敵対性ノイズの検討." NLP若手の会第14回シンポジウム (YANS2019).
+
+1. <u>三田 雅人</u>, 萩原 正人, 坂口 慶祐, 水本 智也, 鈴木 潤, 乾 健太郎. "文法誤り訂正を拡張した新タスクの提案." NLP若手の会 第14回シンポジウム (YANS2019). <span class="custom-color">🏆 奨励賞</span>
+
+1. <u>三田 雅人</u>, 水本 智也, 金子 正弘, 永田 亮, 乾 健太郎. ["文法誤り訂正のコーパス横断評価: 単一コーパス評価で十分か?."](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/C5-2.pdf) 言語処理学会第25回年次大会 (NLP2019).
+
+1. <u>三田 雅人</u>, 水本 智也, 大内 啓樹, 永田 亮, 乾健太郎. "文法誤り訂正のための教師なし解釈性機構." NLP若手の会第13回シンポジウム (YANS2018).
+
+1. <u>三田 雅人</u>, 水本 智也, 松本 裕治. ["文脈を考慮した前置詞誤り訂正に向けた前置詞とその潜在意味関係の同時解析."](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/E3-2.pdf) 言語処理学会第22回年次大会 (NLP2016).
+
+1. <u>三田 雅人</u>, 村上 浩司. ["模倣学習を用いた階層的商品分類."](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/B7-1.pdf) 言語処理学会第22回年次大会 (NLP2016).
+
+1. 水本 智也, <u>三田 雅人</u>. ["Project Next 英文校正タスク: 前置詞誤りを対象とした誤り分析."](https://www.anlp.jp/proceedings/annual_meeting/2015/html/paper/WS_PNN13_e-proofreading.pdf) 言語処理学会第21回年次大会 (NLP2015).
+
+1. <u>三田 雅人</u>, 水本 智也. "Project Next 英文校正タスクの前置詞誤りエラー分析に向けて." NLP若手の会 第9回シンポジウム (YANS2014).

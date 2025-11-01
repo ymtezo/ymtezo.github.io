@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Masato Mita | 三田雅人"
+  navbar: 
+    search: false
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Publications"
+        file: publication.qmd  
+
+
+
+
+format:
+  html:
+    theme:
+      - quartz
+      - custom.scss
+    include-in-header: font.html
+    mainfont: Inter	
+    link-external-newwindow: true
+    toc: true
+    toc-title: " "
+    callout-appearance: simple
+
+lang: ja
+
