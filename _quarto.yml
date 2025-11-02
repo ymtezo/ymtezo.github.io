@@ -4,9 +4,9 @@ project:
 
 
 website:
-  title: "Masato Mita | 三田雅人"
+  title: "Hiroaki Yamato| 大和弘明"
   navbar: 
-    search: false
+    search: true
     left:
       - text: "Home"
         file: index.qmd
@@ -29,4 +29,5 @@ format:
     callout-appearance: simple
 
 lang: ja
+
 

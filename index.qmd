@@ -1,16 +1,19 @@
 ---
-title: "Masato Mita, Ph.D."
+title: "I'm Hiroaki Yamato, Student."
 about:
   id: heading
   template: solana
-  image: figures/profile_2025.jpg
-  links:
+image: "docs/figures/profile.jpg"
+image_gallery:
+    - "docs/figures/名刺表.png"
+    - "docs/figures/名刺裏.png"
+links:
     - icon: envelope
       text: e-mail
-      href: mailto:mita@g.ecc.u-tokyo.ac.jp
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/chemical_tree
+      href: mailto:koumeiyamato+HP@gmail.com
+    - icon: phone
+      text: calling
+      href: https://line.ee/wkUj2Xv
 ---
 
 :::{#heading}
