@@ -39,55 +39,6 @@
     "href": "index.html",
     "title": "I’m Hiroaki Yamato, Student.",
     "section": "",
-    "text": "R&D Engineer @ Data Technology Lab, Recruit Co.,Ltd.\nVisiting Researcher @ Social Computational Linguistics Group, Hitotsubashi University\nVisiting Researcher @ Natural Language Understanding Team, RIKEN AIP"
-  },
-  {
-    "objectID": "index.html#research-interest",
-    "href": "index.html#research-interest",
-    "title": "I’m Hiroaki Yamato, Student.",
-    "section": "Research Interest",
-    "text": "Research Interest\n\nNatural Language Processing\n\nGrammatical Error Correction, Resournce and Evaluation\n\nComputational (Psycho)linguistics\n\nLanguage acquisition, Cognitive modeling"
-  },
-  {
-    "objectID": "index.html#publication-featured",
-    "href": "index.html#publication-featured",
-    "title": "I’m Hiroaki Yamato, Student.",
-    "section": "Publication (Featured)",
-    "text": "Publication (Featured)\n\nAoimi Koyama, Masato Mita, Su-Youn Yoon, Yasufumi Takama, Mamoru Komachi. “Targeted Syntactic Evaluation for Grammatical Error Correction.” Proceedings of the ACL 2025.\nMasato Mita, Ryo Yoshida, Yohei Oseki. “Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition.” Proceedings of the ACL 2025.\nPeinan Zhang, Yusuke Sakai, Masato Mita, Hiroki Ouchi, Taro Watanabe. “AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising.” Proceedings of the NAACL 2025.\nUkyo Honda, Tatsushi Oka, Peinan Zhang, Masato Mita. “Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding.” Transactions of the Association for Computational Linguistics (TACL).\nMasato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. “Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation.” Proceedings of the ACL 2024.\nMasamune Kobayashi, Masato Mita, Mamoru Komachi. “Revisiting Meta-evaluation for Grammatical Error Correction.” Transactions of the Association for Computational Linguistics (TACL).\nMasato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. “Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond.” Proceedings of the BEA 2024.\nMasato Mita, Hitomi Yanaka. “Do Grammatical Error Correction Models Realize Grammatical Generalization?.” Findings of the ACL-IJCNLP 2021.\nMasato Mita, Shun Kiyono, Masahiro Kaneko, Jun Suzuki, Kentaro Inui. “A Self-Refinement Strategy for Noise Reduction in Grammatical Error Correction.” Findings of the EMNLP 2020.\nMasahiro Kaneko, Masato Mita, Shun Kiyono, Jun Suzuki, Kentaro Inui. “Can Encoder-decoder Models Benefit from Pre-trained Language Representation in Grammatical Error Correction?.” Proceedings of the ACL 2020.\nShun Kiyono, Jun Suzuki, Masato Mita, Tomoya Mizumoto, Kentaro Inui. “An Empirical Study of Incorporating Pseudo Data to Grammatical Error Correction.” Proceedings of EMNLP-IJCNLP 2019.\nMasato Mita, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. “Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?.” Proceedings of the NAACL-HLT 2019.\n\n[ᐧᐧᐧ] Please refer to a full list of Publications"
-  },
-  {
-    "objectID": "index.html#misc",
-    "href": "index.html#misc",
-    "title": "I’m Hiroaki Yamato, Student.",
-    "section": "MISC",
-    "text": "MISC\n\nAwardsTalk/ArticleBook/CourseResourceTrajectory of Challenges\n\n\n\n最優秀賞, 言語処理学会第31回年次大会 (2025年3月) (1件/765件)\n委員特別賞, 言語処理学会第31回年次大会 (2025年3月) (32件/726件)\n委員特別賞, 言語処理学会第31回年次大会 (2025年3月) (32件/726件)\n優秀賞, 言語処理学会第30回年次大会 (2024年3月)（12件/599件）\n優秀研究賞, 情報処理学会第258回自然言語処理研究会 (2023年12月)\n奨励賞, NLP若手の会 第18回シンポジウム (2023年8月)\n委員特別賞, 言語処理学会第29回年次大会 (2023年3月)（26件/579件）\n優秀賞, 言語処理学会第28回年次大会 (2022年3月)（7件/386件）\n若手奨励賞, 言語処理学会第26回年次大会 (2020年3月)（13件/269件）\n優秀賞, 言語処理学会第26回年次大会 (2020年3月)（6件/396件）\n奨励賞, NLP若手の会 第14回シンポジウム (2019年8月)\n萌芽研究賞, NLP若手の会 第14回シンポジウム (2019年8月)\n奨励賞 (ハッカソン オープン部門), NLP若手の会 第9回シンポジウム (2014年9月)\n\n\n\n\n言語の本質？” 自然言語処理 32巻3号. (2025.9)\n心理言語学の視点から再考する言語モデルの学習過程. 名古屋地区NLPセミナー（2025.6）.\n“NLP2025 ワークショップ：LLM時代のことばの評価の現在と未来”. 自然言語処理 32巻2号. (2025.6)\n“サイエンスと事業貢献の両立を目指して” 自然言語処理 31巻4号. (2024.12)\n“国際会議ACL2024参加報告”. 第26回音声言語シンポジウム(SP/SLP) 兼 第11回自然言語処理シンポジウム(NL/NLC). (2024.12)\n“CAMERA-Suite: 広告文生成のための評価スイート”」. CyberAgent Developer Conference (CADC2024). (2024.10) [動画][資料]\n“【採択論文紹介】広告文生成タスクの既定とベンチマーク構築 (ACL2024)”. CyberAgent Blog.（2024.10）\n“NLP2024 テーマセッション「人間と計算機のことばの評価」”. 自然言語処理 31巻2号. (2024.6)\n“NLP2023 テーマセッション「ことばの評価と品質推定」.”. 自然言語処理 30巻2号. (2023.6)\n“NLP2023参加報告.” NLP2023 参加報告会 presented by Money Forward Lab\n“日本経済新聞「やっぱり変だよ、日本の教育4」”（2022年11月4日）\n“企業にいながらアカデミアのように働く.” CyberAgent Blog.（2022.7）\n“ライティング支援のための文法誤り訂正.” 株式会社NTTドコモ 招待講演.（2022.2）\n“Do Grammatical Error Correction Models Realize Grammatical Generalization?.” 自然言語処理 28巻4号. (2021.12)\n文法誤り訂正モデルの文法性評価と論述リライトタスクの提案. 第19回 NLP東京Dの会. （2021.3）\n“ライティング学習支援のための文法誤り訂正技術の現状と今後の展望.” 教育アセスメント×言語処理シンポジウム : 自動採点、英文添削、論述評価の可能性.（2020.12）\n文法誤り訂正の評価に対する問題提起. 第17回 NLP東京Dの会.（2019.6.）\n\n\n\n\n“大規模言語モデルとは何か.” 現代化学2023年9月号.\n“深層学習による自然言語処理の理論と実践.” Coloso.\n\n\n\n\nAdPsyche (NLP2025)\n\nJapanese preference dataset based on advertising psychology\n\nLCTG Bench（NLP2024）\n\nBenchmark to measure the controllability of Japanese LLMs in terms of how well they comply with constraints such as character count keywords in instructions\n\nCAMERA3 (LREC-COLING 2024)\n\nEvaluation dataset for controllable ad text generation in Japanese\n\nSEEDA (TACL 2024)\n\nSentence-based and edit-based human evaluation dataset for GEC\n\nCAMERA (ACL 2024)\n\nMultimodal dataset for ad text generation in Japanese\n\nTETRA (BEA2024)\n\nDocument revision corpus\n\n\nJaLeCoN (BEA 2023)\n\nDataset of Japanese lexical complexity for non-native readers\n\nClozEx (EMNLP 2023, Findings)\n\nDataset for a task of generation of English cloze explanation\n\nCELA (EACL 2023, Findings)\n\nDatast for cloze quality estimation\n\nProQE (LREC 2022)\n\nProficiency-wise quality estimation dataset\n\n敬語変換タスクにおける評価用データセット (JSAI 2022)\n\n日本語学習者支援のための敬語変換タスクにおける評価用データセット\n\nFLUTEC (NLP 2022)\n\nEvaluation dataset for Japanese grammatical error correction on fluency edits\n\nPheMT (COLING 2020)\n\nPhenomenon-wise dataset designed for evaluating the robustness of Japanese-English machine translation systems\n\nGitHub Typo Corpus (LREC 2020)\n\nLarge-scale multilingual dataset of misspellings and grammatical errors\n\n\n\n\n\nTEA2015 (sub) → Accepted\nEMNLP2015 (main) → Rejected\nACL2016 (main) → Rejected\nNAACL2019 (main) → Accepted\nBEA2019 (sub) → Accepted\nEMNLP2019 (sub) → Accepted\nLREC2020 (sub) → Accepted\nACL2020 (main) → Withdraw\nACL2020 (sub) ×2 → Accepted ×1, Rejected ×1\nACL-SRW2020 (sub) → Accepted\nEMNLP2020 (main) → Accepted (Findings)\nCOLING2020 (sub) ×2 → Accepted ×2\nACL2021 (main) → Accepted (Findings)\nJNLP2021 (main) → Accepted\nJNLP2021 (sub) → Accepted\nJNLP2022 (sub) → Accepted\nLREC2022 (sub) ×2 → Accepted ×2\nEMNLP2022 (main) → Accepted (Findings) → Withdraw\nTALIP2023 (sub) → Accepted\nJNLP2023 (sub) → Accepted\nACL2023 (main) → Rejected\nBEA2023 (sub) → Accepted\nEACL2023 (sub) → Accepted (Findings)\nEMNLP2023 (sub) → Accepted (Findings)\nAACL2023 (main) → Rejected\nJNLP2024 (sub) → Accepted\nLREC-COLING2024 (sub) ×3 → Accepted ×2, Rejected ×1\nTACL2024 (sub) ×3 → Accepted ×2, Rejected ×1\nBEA2024 (main) → Accepted\nBEA2024 (sub) → Accepted\nACL2024 (main) → Accepted\nACL2024 (sub) → Rejected\nACL-SRW2024 (sub)×2 → Rejected ×2\nINLG2024 (sub) → Rejected\nCOLM2024 (sub) → Rejected\nNeurIPS2024 D&B Track (sub) → Rejected\nJACIII2024 (sub) → Accepted\nPACLIC2024 (sub) → Accepted\nNAACL2025 (sub) → Accepted\nACL2025 (main) → Accepted\nACL2025 (sub)×2 → Accepted ×1, Rejected ×1\nEMNLP2025 (sub)×2 → Accepted (Findings), Rejected ×1\nBlaxboxNLP (sub) → Rejected"
-  },
-  {
-    "objectID": "index.html#academic-services",
-    "href": "index.html#academic-services",
-    "title": "I’m Hiroaki Yamato, Student.",
-    "section": "Academic Services",
-    "text": "Academic Services\n\nOrganizer\n\nCurrent\n\nACL Rolling Review (ARR), Senior Action Editor\n言語処理学会, 年次大会, プログラム委員\n言語処理学会, 自然言語処理論文誌, 編集委員\n言語処理学会, YANSシンポジウム, 運営委員\n情報処理学会, 自然言語処理研究会, 運営委員\n\n\n\nPast\n\nGenChal2022:FCG, Organizer (2019-2023)\n\n\n\n\nReviewer\nCL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA …etc."
-  },
-  {
-    "objectID": "index.html#research-grants",
-    "href": "index.html#research-grants",
-    "title": "I’m Hiroaki Yamato, Student.",
-    "section": "Research Grants",
-    "text": "Research Grants\n\n科研費 基盤B「深層学習による言語生成の評価データセットの構築と品質推定」, 共同研究者（代表者: 小町守）"
-  },
-  {
-    "objectID": "index.html#work-experience",
-    "href": "index.html#work-experience",
-    "title": "I’m Hiroaki Yamato, Student.",
-    "section": "Work Experience",
-    "text": "Work Experience\n\n2025.5 - Present Recruit Co.,Ltd., R&D Engineer\n2025.4 - Present Hitotsubashi University, Visiting Researcher\n2022.7 - Present RIKEN Center for Advanced Intelligence Project (AIP), Visiting Researcher\n2022.6 - 2025.4 CyberAgent, Inc., Research Scientist\n2021.10 - 2025.3 Tokyo Metropolitan University, Project Assistant Professor\n2019.10 - 2020.12 Megagon Labs, Contract Researcher\n2018.2 - 2022.5 RIKEN Center for Advanced Intelligence Project (AIP), Researcher\n2016.4 - 2018.1 Microsoft Japan, Engineer\n2015.10 - 2015.12 Rakuten Institute of Technology - New York (RIT-NY), Part-time Researcher\n2014.8 - 2014.8 NTT Communication Science Laboratories, Part-time Researcher"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "I’m Hiroaki Yamato, Student.",
-    "section": "Education",
-    "text": "Education\n\n2024.4 - Present Ph.D student in The University of Tokyo (Supervisor: Associate prof. Yohei Oseki)\n2018.10 - 2021.9 Ph.D. in Information Science, Tohoku University (Supervisor: Prof. Kentaro Inui)\n2014.4 - 2016.3 M.S. in Engineering, Nara Institute of Science and Technology (NAIST) (Supervisor: Prof. Yuji Matsumoto)\n2010.4 - 2014.3 B.A. , Prefectural University of Hiroshima"
+    "text": "LLMエンジニア@ , Arcra,one of AI starups\nimage_gallery: - “docs/figures/名刺表.png” - “docs/figures/名刺裏.png” safdas\n\n\n\n\n\n\n\n\n\n[ᐧᐧᐧ] Please refer to a full list of Publications"
   }
 ]

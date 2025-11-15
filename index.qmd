@@ -19,16 +19,15 @@ links:
 # 所属に関して|Identification
 LLMエンジニア@ , [Arcra](https://arcra.jp/),one of AI starups
 
-:::
 image_gallery:
     - "docs/figures/名刺表.png"
     - "docs/figures/名刺裏.png"
-:::{.callout-note}
+safdas
+
 
 # News Feed
 
 
-:::
 
 # Research Interest
 
@@ -44,6 +43,7 @@ image_gallery:
 ::: {.panel-tabset}
 
 
+:::
 
 ## Awards 
 
@@ -58,7 +58,6 @@ image_gallery:
 ## Trajectory of Challenges
 
 
-:::
 
 
 ## Academic Services
