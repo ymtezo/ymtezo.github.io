@@ -10,7 +10,7 @@ about:
       href: mailto:koumeiyamato+HP@gmail.com
     - icon: phone
       text: calling
-      href: https://line.ee/wkUj2Xv
+      href: https://lin.ee/wkUj2Xv
 ---
 
 :::{#heading}
