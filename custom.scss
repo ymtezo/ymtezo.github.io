@@ -172,6 +172,34 @@ h1, h2, h3, h4 {
 // }
 
 
+/* ナビゲーションバーを2列にする */
+.navbar-nav {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  max-width: 100% !important;
+}
+
+.navbar-nav .nav-item {
+  flex: 0 0 auto !important;
+}
+
+/* デスクトップ表示で2列に */
+@media (min-width: 992px) {
+  .navbar .navbar-nav.navbar-nav-scroll {
+    max-height: none !important;
+    overflow: visible !important;
+  }
+  
+  .navbar-nav {
+    flex-direction: row !important;
+    max-width: 800px !important;
+  }
+  
+  .navbar-nav .nav-item {
+    margin: 0 0.25rem !important;
+  }
+}
+
 /* ハンバーガーメニュー（三本線）を紫色にし、背景を透明に */
 .navbar-toggler-icon {
   background-image: none;  // デフォルトの白いSVGを消す
