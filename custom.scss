@@ -12,8 +12,8 @@ $primary: #5ce69f;
   overflow: hidden;
   box-sizing: border-box;
   background: #fafafa;
-  z-index: -1;
-  opacity: 0.3;
+  z-index: 0;
+  opacity: 0.25;
   pointer-events: none;
 }
 
@@ -75,6 +75,25 @@ $primary: #5ce69f;
 a {
   color: #333 !important;
   text-decoration: none;
+}
+
+/* コンテンツエリアを前面に、背景を白く */
+main.content,
+.quarto-title-block,
+#quarto-content,
+article {
+  position: relative;
+  z-index: 1;
+  background: rgba(255, 255, 255, 0.95) !important;
+  padding: 1rem;
+}
+
+#heading {
+  position: relative;
+  z-index: 1;
+  background: rgba(255, 255, 255, 0.95) !important;
+  padding: 1rem;
+  border-radius: 8px;
 }
 
 a:hover {
