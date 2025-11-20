@@ -13,6 +13,19 @@ a:hover {
   text-decoration: underline;
 }
 
+/* aboutセクションのリンクアイコンを表示 */
+.about-links a {
+  color: $primary !important;
+}
+
+.about-links a:hover {
+  color: darken($primary, 10%) !important;
+}
+
+.about-links .bi {
+  font-size: 1.5em;
+}
+
 .quarto-title-block,
 .quarto-title-banner {
   background-color: #f8f8f8 !important;

@@ -8,10 +8,24 @@ website:
   navbar: 
     search: true
     left:
-      - text: "Home"
-        file: index.qmd
-      - text: "Publications"
-        file: publication.qmd  
+      - text: "連絡先"
+        file: contact.qmd
+      - text: "Topics"
+        file: topics.qmd
+      - text: "私の過去と未来"
+        file: past-future.qmd
+      - text: "使ってみて"
+        file: try-it.qmd
+      - text: "私が何をしていて何を感じているか"
+        file: what-i-do-feel.qmd
+      - text: "何を言っているか"
+        file: what-i-say.qmd
+      - text: "他の連絡先HUB"
+        file: contact-hub.qmd
+      - text: "一緒にやってみませんか"
+        file: collaborate.qmd
+      - text: "ご支援いただきたく"
+        file: support.qmd  
 
 
 

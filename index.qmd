@@ -3,9 +3,8 @@ title: "I'm Hiroaki Yamato, Student."
 about:
   id: heading
   template: solana
-image: "docs/figures/profile.jpg"
-
-links:
+  image: "https://ca.slack-edge.com/T070S4AMH26-U08QS3M61S4-959d8de20820-512"
+  links:
     - icon: envelope
       text: e-mail
       href: mailto:koumeiyamato+HP@gmail.com
