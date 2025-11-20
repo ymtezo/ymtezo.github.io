@@ -2,14 +2,19 @@
 
 $primary: #5ce69f;
 
-/* レンガ積みアニメーション */
+/* レンガ積みアニメーションを背景に */
 .brick-wrap {
+  position: fixed;
+  top: 0;
+  left: 0;
   width: 100%;
+  height: 100%;
   overflow: hidden;
   box-sizing: border-box;
   background: #fafafa;
-  padding: 20px 0;
-  margin: 2rem 0;
+  z-index: -1;
+  opacity: 0.3;
+  pointer-events: none;
 }
 
 .brick-row {
@@ -41,12 +46,6 @@ $primary: #5ce69f;
   overflow: hidden;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-  transition: transform 0.3s ease;
-}
-
-.brick:hover {
-  transform: scale(1.05);
-  z-index: 10;
 }
 
 /* 画像の調整 */
