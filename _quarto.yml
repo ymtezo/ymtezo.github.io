@@ -8,6 +8,8 @@ website:
   navbar: 
     search: true
     left:
+      - text: "ブログ"
+        file: blog.qmd
       - text: "連絡先"
         file: contact.qmd
       - text: "Topics"

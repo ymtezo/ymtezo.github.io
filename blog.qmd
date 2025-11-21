@@ -1,0 +1,13 @@
+---
+title: "直接のブログたち"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  fields: [image, date, title, description, categories]
+page-layout: full
+title-block-banner: true
+---

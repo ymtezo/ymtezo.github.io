@@ -1,0 +1,21 @@
+---
+title: "地域創生に関するサンプル記事"
+description: "これは地域創生タグのサンプル記事です"
+author: "Hiroaki Yamato"
+date: "2025-01-19"
+categories: [地域創生]
+image: "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?w=400&h=300&fit=crop"
+draft: false
+---
+
+# 地域創生について
+
+これは地域創生に関するサンプル記事です。
+
+## 内容
+
+ここに地域創生に関する内容を書きます。
+
+- 地域の課題
+- 解決策
+- 今後の展望

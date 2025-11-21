@@ -1,0 +1,9 @@
+# すべてのブログ記事に共通する設定
+freeze: true
+
+# カテゴリのデフォルト設定
+categories-meta:
+  起業:
+    description: "起業・スタートアップに関する記事"
+  地域創生:
+    description: "地域創生・地方活性化に関する記事"

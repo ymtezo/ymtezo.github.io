@@ -1,0 +1,21 @@
+---
+title: "起業に関するサンプル記事"
+description: "これは起業タグのサンプル記事です"
+author: "Hiroaki Yamato"
+date: "2025-01-20"
+categories: [起業]
+image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&h=300&fit=crop"
+draft: false
+---
+
+# 起業について
+
+これは起業に関するサンプル記事です。
+
+## 内容
+
+ここに起業に関する内容を書きます。
+
+- ポイント1
+- ポイント2
+- ポイント3
