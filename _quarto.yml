@@ -9,7 +9,7 @@ website:
     search: true
     left:
       - text: "ブログ"
-        file: blogs.qmd
+        file: blog.qmd
       - text: "連絡先"
         file: contact.qmd
       - text: "Topics"
@@ -37,7 +37,10 @@ format:
     theme:
       - quartz
       - custom.scss
-    include-in-header: font.html
+    include-in-header: 
+      - font.html
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     mainfont: Inter	
     link-external-newwindow: true
     toc: true
