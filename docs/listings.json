@@ -1,15 +1,5 @@
 [
   {
-```json
-[
-  {
-    "listing": "/tag-regional-development.html",
-    "items": [
-      "/posts/welcome/index.html",
-      "/posts/example-regional/index.html"
-    ]
-  },
-  {
     "listing": "/tag-startup.html",
     "items": [
       "/posts/welcome/index.html",
@@ -23,6 +13,12 @@
       "/posts/example-startup/index.html",
       "/posts/example-regional/index.html"
     ]
+  },
+  {
+    "listing": "/tag-regional-development.html",
+    "items": [
+      "/posts/welcome/index.html",
+      "/posts/example-regional/index.html"
+    ]
   }
 ]
-```
