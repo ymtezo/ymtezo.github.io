@@ -319,3 +319,38 @@ h1, h2, h3, h4 {
 .navbar-toggler-icon::after {
   bottom: 0;
 }
+
+/* Tag navigation area - similar to TOC/search area */
+.tag-navigation {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 1.5rem 1rem;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  text-align: center;
+  z-index: 10;
+  position: relative;
+}
+
+.tag-navigation h3 {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.tag-navigation .btn {
+  margin: 0.3rem;
+  font-size: 1.1rem;
+}
+
+/* Search icon styling consistency */
+.input-group-text {
+  background-color: #f8f9fa;
+  border-color: #dee2e6;
+}
+
+.input-group-text .bi-search {
+  color: #6c757d;
+}
