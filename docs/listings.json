@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/tag-startup.html",
-    "items": [
-      "/posts/welcome/index.html",
-      "/posts/example-startup/index.html"
-    ]
-  },
-  {
     "listing": "/blog.html",
     "items": [
       "/posts/welcome/index.html",
