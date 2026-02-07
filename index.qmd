@@ -15,8 +15,8 @@ about:
 
 <div class="tag-navigation">
   <h3>カテゴリー | Categories</h3>
-  <a href="tag-startup.html" class="btn btn-primary" style="text-decoration: none;">#起業</a>
-  <a href="tag-regional-development.html" class="btn btn-primary" style="text-decoration: none;">#地域創生</a>
+  <a href="tag-startup.html" class="btn btn-primary text-white" style="text-decoration: none;">#起業</a>
+  <a href="tag-regional-development.html" class="btn btn-primary text-white" style="text-decoration: none;">#地域創生</a>
 </div>
 
 :::{#heading}

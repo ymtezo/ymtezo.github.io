@@ -154,6 +154,20 @@ a {
   color: $primary !important;
 }
 
+/* Primary buttons were inheriting the link color and disappearing; force readable contrast */
+.btn-primary {
+  color: #fff !important;
+  background-color: $primary !important;
+  border-color: $primary !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  color: #fff !important;
+  background-color: darken($primary, 5%) !important;
+  border-color: darken($primary, 5%) !important;
+}
+
 h1, h2, h3, h4 {
   color: #222 !important;
 }
