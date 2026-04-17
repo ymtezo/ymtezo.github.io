@@ -8,6 +8,8 @@ website:
   navbar: 
     search: true
     left:
+      - text: "自己紹介"
+        file: about.qmd
       - text: "ブログ"
         file: blog.qmd
       - text: "地域創生"
