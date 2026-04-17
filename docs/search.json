@@ -1,5 +1,278 @@
 [
   {
+    "objectID": "collaborate.html#一緒に知覚したいコンテンツ",
+    "href": "collaborate.html#一緒に知覚したいコンテンツ",
+    "title": "一緒にやってみませんか",
+    "section": "一緒に知覚したいコンテンツ",
+    "text": "一緒に知覚したいコンテンツ\n同じものを見て、感想を言い合える方を探しています。\n\nJOJO X\nJack\n暗殺教室\n笑ゥせぇるすまん\nJoker Game\n不思議な三角関係です"
+  },
+  {
+    "objectID": "collaborate.html#みんなでつくるコト",
+    "href": "collaborate.html#みんなでつくるコト",
+    "title": "一緒にやってみませんか",
+    "section": "みんなでつくるコト",
+    "text": "みんなでつくるコト\n「コトで繋がる」をテーマに、HOW 編・Verbs 編で企画準備中。\n\n（準備中）"
+  },
+  {
+    "objectID": "collaborate.html#join-us",
+    "href": "collaborate.html#join-us",
+    "title": "一緒にやってみませんか",
+    "section": "JOIN US",
+    "text": "JOIN US\n\nLINE オープンチャット\nDiscord\nSlack\nMy running community\n\nそれぞれの入口は順次公開します。"
+  },
+  {
+    "objectID": "posts/osaka-near-university/index.html",
+    "href": "posts/osaka-near-university/index.html",
+    "title": "大学の近く、大阪に住むべきでは？？？",
+    "section": "",
+    "text": "大学の近く（大阪）に住むべきか、を考えているときに思いついた点のメモ。\n\n変なプライドを持たずに、周りから見てもらえる\nメルボルン大学に行けるかも（提携先へのアクセス）\n農水省とのパイプをつくりやすい\n\nまだ散らかっているので、追記予定。"
+  },
+  {
+    "objectID": "posts/example-startup/index.html#内容",
+    "href": "posts/example-startup/index.html#内容",
+    "title": "起業に関するサンプル記事",
+    "section": "内容",
+    "text": "内容\nここに起業に関する内容を書きます。\n\nポイント1\nポイント2\nポイント3"
+  },
+  {
+    "objectID": "posts/welcome/index.html#タグについて",
+    "href": "posts/welcome/index.html#タグについて",
+    "title": "ブログ開始のお知らせ",
+    "section": "タグについて",
+    "text": "タグについて\n\n#起業: スタートアップや起業に関する記事\n#地域創生: 地域活性化や地方創生に関する記事\n\n今後、様々なトピックについて発信していきます。\nタグをクリックすると、そのタグに関連する記事の一覧が表示されます。"
+  },
+  {
+    "objectID": "support.html#情報をいただきたい",
+    "href": "support.html#情報をいただきたい",
+    "title": "ご支援いただきたく",
+    "section": "情報をいただきたい",
+    "text": "情報をいただきたい\n日々困っていて、知っている方がいたら教えてほしいこと。\n\nコンタクトレンズどうやって買っていますか？\n手書きメモを写真で取ってスライドにする方法（特に、手書き文字をテキスト化し、図形をきれいにレンダリングしてくれる機能のあるもの）\n\n\nこれ知ってますか？（随時更新）\n以下は Notion で管理している Q&A DB をそのまま埋め込んでいます。"
+  },
+  {
+    "objectID": "support.html#モノツールとしてご支援いただきたい",
+    "href": "support.html#モノツールとしてご支援いただきたい",
+    "title": "ご支援いただきたく",
+    "section": "モノ・ツールとしてご支援いただきたい",
+    "text": "モノ・ツールとしてご支援いただきたい\n共感とご協力のお願いです。\n\nAmazon ほしいものリスト\n楽天\nPlay Store\nMastodon / Signal / Telegram / Lemon8 等のアカウント連携"
+  },
+  {
+    "objectID": "support.html#金銭的なご支援",
+    "href": "support.html#金銭的なご支援",
+    "title": "ご支援いただきたく",
+    "section": "金銭的なご支援",
+    "text": "金銭的なご支援\n\nBuy Me a Coffee\n\n\n\n\n\n\n\n順次リンクを整備していきます。"
+  },
+  {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publications",
+    "section": "",
+    "text": "See also Google Scholar, ACL Anthology, and researchmap."
+  },
+  {
+    "objectID": "publication.html#preprint",
+    "href": "publication.html#preprint",
+    "title": "Publications",
+    "section": "Preprint",
+    "text": "Preprint\n\nKentaro Kurihara, Masato Mita, Peinan Zhang, Shota Sasaki, Ryosuke Ishigami, Naoaki Okazaki. “LCTG Bench: LLM Controlled Text Generation Benchmark”. arXiv:2501.15875\nAkihiko Kato, Masato Mita, Soichiro Murakami, Ukyo Honda, Sho Hoshino, Peinan Zhang. “FaithCAMERA: Construction of a Faithful Dataset for Ad Text Generation”. arXiv:2410.03839"
+  },
+  {
+    "objectID": "publication.html#international-conference",
+    "href": "publication.html#international-conference",
+    "title": "Publications",
+    "section": "International Conference",
+    "text": "International Conference\n\nHiroto Otake, Peinan Zhang, Yusuke Sakai, Masato Mita, Hiroki Ouchi, Taro Watanabe. BannerBench: Benchmarking Vision Language Models for Multi-Ad Selection with Human Preferences. Findings of EMNLP 2025.\nAoimi Koyama, Masato Mita, Su-Youn Yoon, Yasufumi Takama, Mamoru Komachi. “Targeted Syntactic Evaluation for Grammatical Error Correction.” Proceedings of the ACL 2025.\nMasato Mita, Ryo Yoshida, Yohei Oseki. “Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition.” Proceedings of the ACL 2025.\nPeinan Zhang, Yusuke Sakai, Masato Mita, Hiroki Ouchi, Taro Watanabe. “AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising.” Proceedings of the NAACL 2025.\nAyako Sato, Tosho Hirasawa, Hwichan Kim, Zhousi Chen, Teruaki Oka, Masato Mita, Mamoru Komachi. “DejaVu: Disambiguation evaluation dataset for English-JApanese machine translation on VisUal information.” Proceedings of the PACLIC 2024.\nMasato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. “Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation.” Proceedings of the ACL 2024.\nMasamune Kobayashi, Masato Mita, Mamoru Komachi. “Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction.” Proceedings of the BEA 2024.\nMasato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. “Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond.” Proceedings of the BEA 2024.\nGo Inoue, Akihiko Kato, Masato Mita, Ukyo Honda and Peinan Zhang. “CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese.” Proceedings of the LREC-COLING 2024.\nNaoya Ueda, Masato Mita, Teruaki Oka and Mamoru Komachi. “Token-length Bias in Minimal-pair Paradigm Datasets.” Proceedings of the LREC-COLING 2024.\nZizheng Zhang, Masato Mita, Mamoru Komachi. “ClozEx: A Task toward Generation of English Cloze Explanation.” Findings of the EMNLP 2023.\nRyo Nagata, Masato Hagiwara, Kazuaki Hanawa, Masato Mita. “A Report on FCG GenChal 2022: Shared Task on Feedback Comment Generation for Language Learners.” Proceedings of the INLG 2023.\nYusuke Ide, Masato Mita, Adam Nohejl, Hiroki Ouchi, and Taro Watanabe. “Japanese Lexical Complexity for Non-Native Readers: a New Dataset.” Proceedings of the BEA 2023.\nZizheng Zhang, Masato Mita, Mamoru Komachi. “Cloze Quality Estimation for Language Assessment.” Findings of EACL 2023.\nYujin Takahashi, Masahiro Kaneko, Masato Mita, Mamoru Komachi. “ProQE: Proficiency-wise Quality Estimation dataset for Grammatical Error Correction” Proceedings of the LREC 2022.\nDaisuke Suzuki, Yujin Takahashi, Ikumi Yamashita, Taichi Aida, Tosho Hirasawa, Michitaka Nakatsuji, Masato Mita, Mamoru Komachi. “Construction of a Quality Estimation Dataset for Automatic Evaluation of Japanese Grammatical Error Correction.” Proceedings of the LREC 2022.\nRyo Nagata, Masato Hagiwara, Kazuaki Hanawa, Masato Mita, Artem Chernodub, Olena Nahorna. “Shared Task on Feedback Comment Generation for Language Learners.” Proceedings of the INLG 2021.\nMasato Mita, Hitomi Yanaka. “Do Grammatical Error Correction Models Realize Grammatical Generalization?.” Findings of the ACL-IJCNLP 2021.\nTakumi Gotou, Ryo Nagata, Masato Mita, Kazuaki Hanawa. “Taking the Correction Difficulty into Account in Grammatical Error Correction Evaluation.” Proceedings of the COLING 2020.\nRyo Fujii, Masato Mita, Kaori Abe, Kazuaki Hanawa, Makoto Morishita, Jun Suzuki, Kentaro Inui. “PheMT: A Phenomenon-wise Dataset for Machine Translation Robustness on User-Generated Contents.” Proceedings of the COLING 2020.\nMasato Mita, Shun Kiyono, Masahiro Kaneko, Jun Suzuki, Kentaro Inui. “A Self-Refinement Strategy for Noise Reduction in Grammatical Error Correction.” Findings of the EMNLP 2020.\nHiroaki Funayama, Shota Sasaki, Yuichiro Matsubayashi, Tomoya Mizumoto, Jun Suzuki, Masato Mita, Kentaro Inui. “Preventing Critical Scoring Errors in Short Answer Scoring with Confidence Estimation.” Proceedings of the ACL SRW 2020.\nMasahiro Kaneko, Masato Mita, Shun Kiyono, Jun Suzuki, Kentaro Inui. “Can Encoder-decoder Models Benefit from Pre-trained Language Representation in Grammatical Error Correction?.” Proceedings of the ACL 2020.\nMasato Hagiwara, Masato Mita. “GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors.” Proceedings of the LREC 2020.\nShun Kiyono, Jun Suzuki, Masato Mita, Tomoya Mizumoto, Kentaro Inui. “An Empirical Study of Incorporating Pseudo Data to Grammatical Error Correction.” Proceedings of EMNLP-IJCNLP 2019.\nHiroki Asano, Masato Mita, Tomoya Mizumoto, Jun Suzuki. “The AIP-Tohoku System at the BEA-2019 Shared Task.” Proceedings of the BEA 2019. 🏆 2nd place at the unrestricted track\nMasato Mita, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. “Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?.” Proceedings of the NAACL-HLT 2019.\nTomoya Mizumoto, Masato Mita, Yuji Matsumoto. “Grammatical Error Correction Considering Multi-word Expressions.” Proceedings of the TEA 2015."
+  },
+  {
+    "objectID": "publication.html#journal",
+    "href": "publication.html#journal",
+    "title": "Publications",
+    "section": "Journal",
+    "text": "Journal\n\nHongfei Wang, Zhousi Chen, Zizheng Zhang, Zhidong Ling, Xiaomeng Pan, Wenjie Duan, Masato Mita, Mamoru Komachi. “Revisiting the Evaluation for Chinese Grammatical Error Correction.” Journal of Advanced Computational Intelligence and Intelligent Informatics. Vol.28, No.6.\nUkyo Honda, Tatsushi Oka, Peinan Zhang, Masato Mita. “Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding.” Transactions of the Association for Computational Linguistics (TACL).\nMasamune Kobayashi, Masato Mita, Mamoru Komachi. “Revisiting Meta-evaluation for Grammatical Error Correction.” Transactions of the Association for Computational Linguistics (TACL).\nZizheng Zhang, Masato Mita, Mamoru Komachi. “Cloze Quality Estimation for Language Assessment.” Journal of Natural Language Processing (in Japanese) Vol.31, No.2.\nAomi Koyama, Tomoshige Kiyuna, Kenji Kobayashi, Mio Arai, Masato Mita, Teruaki Oka and Mamoru Komachi. “Construction of an Error-Tagged Evaluation Corpus for Japanese Grammatical Error Correction.” Journal of Natural Language Processing (in Japanese) Vol.30, No.2.\nHongfei Wang, Michiki Kurosawa, Satoru Katsumata, Masato Mita, Mamoru Komachi. “Chinese Grammatical Error Correction Using Pre-trained Models and Pseudo Data.” Transactions on Asian and Low-Resource Language Information Processing (TALIP).\nIkumi Yamashita, Masahiro Kaneko, Masato Mita, Satoru Katsumata, Aizhan Imankulova, Mamoru Komachi. “Grammatical Error Correction with Pre-trained Model and Multilingual Learner Corpus for Cross-lingual Transfer Learning.” Journal of Natural Language Processing (in Japanese) Vol.29, No.2.\nRyo Fujii, Masato Mita, Kaori Abe, Kazuaki Hanawa, Makoto Morishita, Jun Suzuki, Kentaro Inui. “Phenomenon-wise Evaluation Dataset Towards Analyzing Robustness of Machine Translation Models.” Journal of Natural Language Processing (in Japanese) Vol.28, No.2.\nMasato Mita, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. “Cross-Sectional Evaluation of Grammatical Error Correction Models.” Journal of Natural Language Processing (in Japanese) Vol.28, No.1."
+  },
+  {
+    "objectID": "publication.html#domestic-conference",
+    "href": "publication.html#domestic-conference",
+    "title": "Publications",
+    "section": "Domestic Conference",
+    "text": "Domestic Conference\n\n山口美咲, 三田雅人, 大関洋平. 大規模言語モデルによる人間の表記認知の定量化. 第20回YANSシンポジウム (YANS2025).\n大竹啓永, 張培楠, 坂井優介, 三田雅人, 大内啓樹, 渡辺太郎. “広告画像ランキングによる視覚言語モデルの評価.” 言語処理学会第31回年次大会(NLP2025)\n本多右京, 岡達志, 張培楠, 三田雅人. “Mixture-of-Expertsの悲観的な統合による頑健な自然言語理解.” 言語処理学会第31回年次大会(NLP2025) 🏆 委員特別賞\n加藤明彦, 三田雅人, 村上聡一郎, 本多右京, 星野翔, 張培楠. “FaithCAMERA: 広告文生成タスクのための忠実性を担保した評価データセットの構築.” 言語処理学会第31回年次大会(NLP2025) 🏆 委員特別賞\n三田雅人, 吉田遼, 深津聡世, 大関洋平. “作業記憶の発達的特性が言語獲得の臨界期を形成する.” 言語処理学会第31回年次大会(NLP2025) [Errata] [発表資料] 🏆 最優秀賞\n三田雅人, 村上聡一郎, 本多右京, 岡達志. “AdPsyche: 広告心理学に基づく選好データセット” 言語処理学会第31回年次大会(NLP2025)\n佐藤郁子, 金輝燦, 陳宙斯, 三田雅人, 小町守. “アライメントが大規模言語モデルの数値バイアスに与える影響” 言語処理学会第31回年次大会(NLP2025)\n佐藤郁子, 金輝燦, 陳宙斯, 三田雅人, 小町守. テキスト評価におけるLLMアラインメント手法の影響分析. 第19回YANSシンポジウム (YANS2024).\n栗原 健太郎, 三田 雅人, 張 培楠, 佐々木 翔太, 石上 亮介, 岡崎 直観. “LCTG Bench: 日本語 LLM の制御性ベンチマークの構築.” 言語処理学会第30回年次大会 (NLP2024).\n上田 直生也, 三田 雅人, 小町 守. “Minimul-pair Paradigmデータセットにおけるトークン長バイアスの分析と改善.” 言語処理学会第30回年次大会 (NLP2024).\n小林 正宗, 三田 雅人, 小町 守. “文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性.” 言語処理学会第30回年次大会 (NLP2024). 🏆 優秀賞\nZizheng Zhang, Masato Mita, Mamoru Komachi. “A Task of Cloze Explanation Generation for ESL Learning.” 言語処理学会第30回年次大会 (NLP2024).\n小林 正宗, 三田 雅人, 小町 守. “文法誤り訂正におけるメタ評価の再考.” 第258回自然言語処理研究会 🏆 優秀研究賞\n栗原 健太郎, 佐々木 翔大, 張 培楠, 石上 亮介, 三田 雅人, 加藤 明彦. “日本語LLMベンチマーク構築に向けて.” NLP若手の会第18回シンポジウム (YANS2023). 🏆 奨励賞\n三田 雅人, 本多 右京, 張 培楠. “英語広告文生成のためのペルソナ型評価基盤の構築に向けて.” NLP若手の会第18回シンポジウム (YANS2023).\n上田 直生也, 三田 雅人, 小町 守. “文法性評価ベンチマークBLiMPにおけるバイアス除去.” NLP若手の会第18回シンポジウム (YANS2023).\n三田 雅人, 村上 聡一朗, 張 培楠. “広告文生成タスクの規定とベンチマーク構築.” 言語処理学会第29回年次大会 (NLP2023). 🏆 委員特別賞\n加藤 明彦, 大田 和寛, 村上 聡一朗, 三田 雅人, 本多 右京, 張 培楠. “広告データセットに内在する幻覚の分析.” 言語処理学会第29回年次大会 (NLP2023).\n張 培楠, 坂井 優介, 三田 雅人, 大内 啓樹, 渡辺 太郎. “AdGLUE: 広告言語理解ベンチマーク.” 言語処理学会第29回年次大会 (NLP2023).\n小山 碧海, 喜友名 朝視顕, 三田 雅人, 岡 照晃, 小町 守. “日本語文法誤り訂正評価コーパスへの誤用タグ付け.” 第253回自然言語処理研究会.\n五藤 巧, 永田 亮, 三田 雅人. “文法誤り訂正における訂正難易度の判別可能性.” 第252回自然言語処理研究会. 🏆 若手奨励賞（筆頭著者のみ受賞）\n松本 悠太, 林崎 由, 北山 晃太郎, 舟山 弘晃, 三田 雅人, 乾健太郎. “日本語学習者支援のための敬語変換タスクの提案.” 第36回人工知能学会全国大会.\n三田 雅人, 坂口 慶祐, 萩原 正人, 水本 智也, 鈴木 潤, 乾 健太郎. “論述リビジョンのためのメタ評価基盤.” 言語処理学会第28回年次大会 (NLP2022). 🏆 優秀賞\n木山 朔, 上坂 奏人, 佐藤 郁子, 佐藤 京也, 米田 悠人, 小山 碧海, 三田 雅人, 岡 照晃, 小町 守. “日本語文法誤り訂正の流暢性評価に向けたデータ作成.” 言語処理学会第28回年次大会 (NLP2022). 🏆 若手奨励賞（筆頭著者のみ受賞）\n小林 正宗, 高橋 悠進, 三田 雅人, 小町 守. “ニューラル文法誤り訂正システムにおけるリランキングの改善に向けたオラクル分析.” 言語処理学会第28回年次大会 (NLP2022).\n北山 晃太郎, 松本 悠太, 舟山 弘晃, 松林 優一郎, 三田 雅人, 乾 健太郎. “日本語学習者支援のための敬語誤り訂正タスクの提案.” NLP若手の会第16回シンポジウム (YANS2021).\n五藤 巧, 永田 亮, 三田 雅人. “文法誤りの訂正難易度の判別における人とシステムの一致調査.” NLP若手の会第16回シンポジウム (YANS2021).\n三田 雅人, 萩原 正人, 坂口 慶祐, 水本 智也, 鈴木 潤, 乾 健太郎. “論述リライトタスクの提案と自動評価の実現に向けて.”” 言語処理学会第27回年次大会 (NLP2021) ワークショップ「文章の評価と品質推定」.\n三田 雅人, 谷中 瞳. “文法誤り訂正モデルは訂正に必要な文法を学習しているか.” 言語処理学会第27回年次大会 (NLP2021).\n三田 雅人, 谷中 瞳. “文法誤り訂正モデルは文法知識を汎化しているか.” NLP若手の会第15回シンポジウム (YANS2020).\n松本 悠太, 藤井 諒, 阿部 香央莉, 舟山 弘晃, 三田 雅人. “漢字の意味構造を考慮した複数のニューラル漢字創作システムの比較検討.” NLP若手の会第15回シンポジウム (YANS2020).\n藤井 諒, 三田 雅人, 阿部 香央莉, 塙 一晃, 森下 睦, 鈴木 潤, 乾 健太郎. “ユーザ生成コンテンツの高品質な自動翻訳に向けた言語現象の体系的分析.” 第34回人工知能学会全国大会.\n舟山 弘晃, 佐々木 翔太, 水本 智也, 三田 雅人, 鈴木潤, 松林優一郎, 乾健太郎. “記述式答案自動採点のための確信度推定手法の検討.” 言語処理学会第26回年次大会 (NLP2020).\n五藤 巧, 永田 亮, 三田 雅人, 塙 一晃. “訂正難易度を考慮した文法誤り訂正のための性能評価尺度.” 言語処理学会第26回年次大会 (NLP2020).\n清野 舜, 鈴木 潤, 三田 雅人, 水本 智也, 乾 健太郎. “大規模疑似データを用いた高性能文法誤り訂正モデルの構築.” 言語処理学会第26回年次大会 (NLP2020). 🏆 優秀賞\n三田 雅人, 清野 舜, 金子 正弘, 鈴木 潤, 乾 健太郎. “文法誤り訂正のための自己改良戦略に基づくノイズ除去.” 言語処理学会第26回年次大会 (NLP2020). 🏆 若手奨励賞（筆頭著者のみ受賞）\nMasato Mita, Masato Hagiwara, Keisuke Sakaguchi, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. “Automated Essay Rewriting (AER): Grammatical Error Correction, Fluency Edits, and Beyond.” 第241回自然言語処理研究会.\n舟山弘晃, 佐々木翔太, 水本智也, 三田雅人, 鈴木潤, 乾健太郎. “自動採点における確信度推定手法.” NLP若手の会 第14回シンポジウム (YANS2019).\n五藤 巧, 永田 亮, 三田 雅人, 塙 一晃, 水本 智也. “文法誤り訂正における問題の難しさを考慮した性能評価尺度の提案.” NLP若手の会第14回シンポジウム (YANS2019). 🏆 萌芽研究賞\n藤井 諒, 舟山 弘晃, 北山 晃太郎, 阿部 香央莉, Ana brassard, 三田 雅人, 大内 啓樹. “seq2seqによる部首を考慮したニューラル漢字生成システム.” NLP若手の会 第14回シンポジウム (YANS2019).\n金子 正弘, 三田 雅人, 鈴木 潤, 乾 健太郎. “コロケーション・イディオム誤りを考慮した文法誤り訂正のための擬似データ生成.” NLP若手の会第14回シンポジウム (YANS2019).\n藤井 諒, 阿部 香央莉, 塙 一晃, 三田 雅人, 鈴木 潤, 乾 健太郎. “文法誤りに頑健な機械翻訳システムの実現に向けた敵対性ノイズの検討.” NLP若手の会第14回シンポジウム (YANS2019).\n三田 雅人, 萩原 正人, 坂口 慶祐, 水本 智也, 鈴木 潤, 乾 健太郎. “文法誤り訂正を拡張した新タスクの提案.” NLP若手の会 第14回シンポジウム (YANS2019). 🏆 奨励賞\n三田 雅人, 水本 智也, 金子 正弘, 永田 亮, 乾 健太郎. “文法誤り訂正のコーパス横断評価: 単一コーパス評価で十分か?.” 言語処理学会第25回年次大会 (NLP2019).\n三田 雅人, 水本 智也, 大内 啓樹, 永田 亮, 乾健太郎. “文法誤り訂正のための教師なし解釈性機構.” NLP若手の会第13回シンポジウム (YANS2018).\n三田 雅人, 水本 智也, 松本 裕治. “文脈を考慮した前置詞誤り訂正に向けた前置詞とその潜在意味関係の同時解析.” 言語処理学会第22回年次大会 (NLP2016).\n三田 雅人, 村上 浩司. “模倣学習を用いた階層的商品分類.” 言語処理学会第22回年次大会 (NLP2016).\n水本 智也, 三田 雅人. “Project Next 英文校正タスク: 前置詞誤りを対象とした誤り分析.” 言語処理学会第21回年次大会 (NLP2015).\n三田 雅人, 水本 智也. “Project Next 英文校正タスクの前置詞誤りエラー分析に向けて.” NLP若手の会 第9回シンポジウム (YANS2014)."
+  },
+  {
+    "objectID": "tag-outreach.html",
+    "href": "tag-outreach.html",
+    "title": "#発信",
+    "section": "",
+    "text": "発信に関する記事一覧です。\n\n\n\n\n\n\n\n\n一致なし"
+  },
+  {
+    "objectID": "tag-student-life.html",
+    "href": "tag-student-life.html",
+    "title": "#学生生活",
+    "section": "",
+    "text": "学生生活に関する記事一覧です。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n大学の近く、大阪に住むべきでは？？？\n\n\n大阪公立大学の近くに住むことで得られそうな副次効果のメモ。\n\n\n\n\n\n2026/03/09\n\n\n\n\n\n一致なし"
+  },
+  {
+    "objectID": "tag-startup.html",
+    "href": "tag-startup.html",
+    "title": "#起業",
+    "section": "",
+    "text": "起業に関する記事一覧です。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nブログ開始のお知らせ\n\n\n新しくブログ機能を追加しました!\n\n\n\n\n\n2025/01/21\n\n\n\n\n\n\n\n\n\n\n\n\n起業に関するサンプル記事\n\n\nこれは起業タグのサンプル記事です\n\n\n\n\n\n2025/01/20\n\n\n\n\n\n一致なし"
+  },
+  {
+    "objectID": "tag-ai.html",
+    "href": "tag-ai.html",
+    "title": "#AI",
+    "section": "",
+    "text": "AIに関する記事一覧です。\n\n\n\n\n\n\n\n\n一致なし"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "直接のブログたち",
+    "section": "",
+    "text": "よかったもの × 感想\n\n\n\n感想\n\n\n\n最近よかったドラマ・マンガ・音楽・フィード系コンテンツなどの備忘録。\n\n\n\n\n\n2026/03/09\n\n\n\n\n\n\n\n\n\n\n\n\n大学の近く、大阪に住むべきでは？？？\n\n\n\n学生生活\n\n地域創生\n\n\n\n大阪公立大学の近くに住むことで得られそうな副次効果のメモ。\n\n\n\n\n\n2026/03/09\n\n\n\n\n\n\n\n\n\n\n\n\nブログ開始のお知らせ\n\n\n\n起業\n\n地域創生\n\n\n\n新しくブログ機能を追加しました!\n\n\n\n\n\n2025/01/21\n\n\n\n\n\n\n\n\n\n\n\n\n起業に関するサンプル記事\n\n\n\n起業\n\n\n\nこれは起業タグのサンプル記事です\n\n\n\n\n\n2025/01/20\n\n\n\n\n\n\n\n\n\n\n\n\n地域創生に関するサンプル記事\n\n\n\n地域創生\n\n\n\nこれは地域創生タグのサンプル記事です\n\n\n\n\n\n2025/01/19\n\n\n\n\n\n一致なし"
+  },
+  {
+    "objectID": "tag-research.html",
+    "href": "tag-research.html",
+    "title": "#研究",
+    "section": "",
+    "text": "研究に関する記事一覧です。\n\n\n\n\n\n\n\n\n一致なし"
+  },
+  {
+    "objectID": "try-it.html#商品販売",
+    "href": "try-it.html#商品販売",
+    "title": "使ってみて",
+    "section": "商品販売",
+    "text": "商品販売\n\n籍（書籍）\n予約制のもの\nNFT\n動画コンテンツ\nメルカリ あきあき の出品"
+  },
+  {
+    "objectID": "try-it.html#円でお願いしたいことやります",
+    "href": "try-it.html#円でお願いしたいことやります",
+    "title": "使ってみて",
+    "section": "5,000円でお願いしたいことやります！",
+    "text": "5,000円でお願いしたいことやります！\nちょっとしたお手伝い・作業・相談など、5,000 円でお受けする枠を用意しています。 内容の相談は連絡先から。"
+  },
+  {
+    "objectID": "try-it.html#学問試見スライド資料",
+    "href": "try-it.html#学問試見スライド資料",
+    "title": "使ってみて",
+    "section": "学問試見（スライド・資料）",
+    "text": "学問試見（スライド・資料）\n\nSlideShare\nSpeakerDeck\n\n\n\n\n\n\n\nそれぞれのリンクは順次公開します。"
+  },
+  {
+    "objectID": "say-feel.html#何をしていて何を感じているか",
+    "href": "say-feel.html#何をしていて何を感じているか",
+    "title": "私が、感じて、言っていることはなにか？",
+    "section": "何をしていて・何を感じているか",
+    "text": "何をしていて・何を感じているか\n日々の活動と、そのときに感じていることの一次情報は、以下のチャネルに流しています。\n\n自動 Logging（myapp / 思考の海底）\nLogging IP（準備中）\nよかったもの × 感想（ブログの #感想 カテゴリ）\n\n自分の立ち位置や進行中の取り組みは 自己紹介 / 私の過去と未来 を参照してください。"
+  },
+  {
+    "objectID": "say-feel.html#何を言っているか発信チャネル",
+    "href": "say-feel.html#何を言っているか発信チャネル",
+    "title": "私が、感じて、言っていることはなにか？",
+    "section": "何を言っているか（発信チャネル）",
+    "text": "何を言っているか（発信チャネル）\n\n記事を投稿しているところ\n流動的（フィード系）\n\nRSS\nNotion での Blogs\n\n固定的\n\nPDF / HackMd 等の単発ドキュメント\nClaude public artifacts\n\nデジタル名刺\n\n（準備中）\n\n\n\n私の日常の SNS\nショート動画・画像投稿\n\nInstagram: @yamato_._.o_\nFacebook: あまり使っていません（お尋ねいただければご案内します）\nTikTok: 使っていません\n\nセンテンス投稿\n\nX (Twitter)\nGitHub (code): ymtezo\nBluesky: 現状あまり動かしていません\nThread: 使っていません\n\n動画投稿\n\n（準備中）"
+  },
+  {
+    "objectID": "tag-regional-development.html#自己紹介-about-me",
+    "href": "tag-regional-development.html#自己紹介-about-me",
+    "title": "#地域創生",
+    "section": "自己紹介 | About Me",
+    "text": "自己紹介 | About Me\n大和 弘明 (Hiroaki Yamato) — 大阪公立大学 在学中。 LLMエンジニアとして Arcra に関わりつつ、 いくつかのプロジェクトを横断的に動かしています。 特に ControlTower をはじめとする 「地域・組織・人のあいだに立って情報と意思決定を捌く」 タイプの取り組みに軸足を置いています。\nテクノロジー側（AI / LLM / ソフトウェア）と、 現場側（地域の自治体・事業者・学生コミュニティ）の 両方に足を置けることを自分の強みと捉え、 「現場で起きている面倒をコードと仕組みで軽くする」 という距離感で地域創生に関わっています。"
+  },
+  {
+    "objectID": "tag-regional-development.html#地域創生について-regional-revitalization",
+    "href": "tag-regional-development.html#地域創生について-regional-revitalization",
+    "title": "#地域創生",
+    "section": "地域創生について | Regional Revitalization",
+    "text": "地域創生について | Regional Revitalization\n地域創生（Regional Revitalization / Community Revitalization）は、 人口減少や経済的停滞に直面する地域に、 新しい経済循環・文化・つながりを生み出していく営みです。\nこのページでは、私が地域創生というテーマに対して どのような立場で関わり、どんな問いを持って取り組んでいるかを 整理しつつ、関連する記事・活動をまとめていきます。\n\nCR副専攻を修了 | Completed CR Minor\n学部課程では CR副専攻（Community Revitalization 副専攻 / 地域再生副専攻） を履修し、修了しました。地域に飛び込んで課題と接点を持つための フィールドワーク、自治体・地域プレイヤーとの協働、プロジェクト設計の 一連のプロセスを体験的に学び、これが現在の地域創生への関心の 基盤になっています。"
+  },
+  {
+    "objectID": "tag-regional-development.html#関連記事-posts",
+    "href": "tag-regional-development.html#関連記事-posts",
+    "title": "#地域創生",
+    "section": "関連記事 | Posts",
+    "text": "関連記事 | Posts"
+  },
+  {
+    "objectID": "contact-hub.html#リンクハブ-main",
+    "href": "contact-hub.html#リンクハブ-main",
+    "title": "他の連絡先HUB",
+    "section": "リンクハブ MAIN",
+    "text": "リンクハブ MAIN\n\nlit.link（メインのリンクハブ）\nその他バックアップ用のリンクハブを順次追加予定\n\n\n\n\n\n\n\nOne link to tell your story. というコンセプトで、価値とされていない価値で世間を驚かせたい、という動機で集めているリンクハブです。"
+  },
+  {
+    "objectID": "posts/example-regional/index.html#内容",
+    "href": "posts/example-regional/index.html#内容",
+    "title": "地域創生に関するサンプル記事",
+    "section": "内容",
+    "text": "内容\nここに地域創生に関する内容を書きます。\n\n地域の課題\n解決策\n今後の展望"
+  },
+  {
+    "objectID": "posts/good-things-impressions/index.html",
+    "href": "posts/good-things-impressions/index.html",
+    "title": "よかったもの × 感想",
+    "section": "",
+    "text": "最近観たり読んだり聴いたりした中で、よかったものの感想メモ。随時追記。"
+  },
+  {
+    "objectID": "posts/good-things-impressions/index.html#ドラマ",
+    "href": "posts/good-things-impressions/index.html#ドラマ",
+    "title": "よかったもの × 感想",
+    "section": "ドラマ",
+    "text": "ドラマ\n\nロストデイズ (TVer)"
+  },
+  {
+    "objectID": "posts/good-things-impressions/index.html#笑えるもの",
+    "href": "posts/good-things-impressions/index.html#笑えるもの",
+    "title": "よかったもの × 感想",
+    "section": "笑えるもの",
+    "text": "笑えるもの\n\n名探偵津田 — tver.jp"
+  },
+  {
+    "objectID": "posts/good-things-impressions/index.html#マンガ",
+    "href": "posts/good-things-impressions/index.html#マンガ",
+    "title": "よかったもの × 感想",
+    "section": "マンガ",
+    "text": "マンガ\nおすすめ\n\nはじめアルゴリズム\n\n見たい\n\nガチアクタ"
+  },
+  {
+    "objectID": "posts/good-things-impressions/index.html#音楽",
+    "href": "posts/good-things-impressions/index.html#音楽",
+    "title": "よかったもの × 感想",
+    "section": "音楽",
+    "text": "音楽\n\nお気に入りの YouTube プレイリストから拾った曲たちを順次追加予定"
+  },
+  {
+    "objectID": "posts/good-things-impressions/index.html#フィードユーザー-プレイリスト系",
+    "href": "posts/good-things-impressions/index.html#フィードユーザー-プレイリスト系",
+    "title": "よかったもの × 感想",
+    "section": "フィード（ユーザー / プレイリスト系）",
+    "text": "フィード（ユーザー / プレイリスト系）\n\nTwitter / Bluesky / RSS（テキスト）\nPixiv / Pinterest / Instagram（画像）\nPodcast / radio / YouTube Music（音声・動画）"
+  },
+  {
+    "objectID": "posts/good-things-impressions/index.html#その他気になったコンテンツ",
+    "href": "posts/good-things-impressions/index.html#その他気になったコンテンツ",
+    "title": "よかったもの × 感想",
+    "section": "その他気になったコンテンツ",
+    "text": "その他気になったコンテンツ\n\n写真で見る大阪国際空港の歴史\nコンフィデンスマン（動画）"
+  },
+  {
+    "objectID": "posts/good-things-impressions/index.html#読んで印象的だったコメント",
+    "href": "posts/good-things-impressions/index.html#読んで印象的だったコメント",
+    "title": "よかったもの × 感想",
+    "section": "読んで印象的だったコメント",
+    "text": "読んで印象的だったコメント\n泉北高速の延伸構想について、下谷建起氏による歴史的経緯の整理（泉北ニュータウン建設期から日本住宅公団の撤退まで）が印象深かった。"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "自己紹介 | About Me",
+    "section": "",
+    "text": "大和 弘明 (Hiroaki Yamato) — 大阪公立大学 在学中。 LLMエンジニアとして Arcra に関わりつつ、 いくつかのプロジェクトを横断的に動かしています。 特に ControlTower をはじめとする 「地域・組織・人のあいだに立って情報と意思決定を捌く」 タイプの取り組みに軸足を置いています。\nテクノロジー側（AI / LLM / ソフトウェア）と、 現場側（地域の自治体・事業者・学生コミュニティ）の 両方に足を置けることを自分の強みと捉え、 「現場で起きている面倒をコードと仕組みで軽くする」 という距離感で動いています。"
+  },
+  {
     "objectID": "index.html#misc",
     "href": "index.html#misc",
     "title": "I’m Hiroaki Yamato, Student.",
@@ -54,131 +327,5 @@
     "title": "I’m Hiroaki Yamato, Student.",
     "section": "Education & Work Experience",
     "text": "Education & Work Experience"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "自己紹介 | About Me",
-    "section": "",
-    "text": "大和 弘明 (Hiroaki Yamato) — 大阪公立大学 在学中。 LLMエンジニアとして Arcra に関わりつつ、 いくつかのプロジェクトを横断的に動かしています。 特に ControlTower をはじめとする 「地域・組織・人のあいだに立って情報と意思決定を捌く」 タイプの取り組みに軸足を置いています。\nテクノロジー側（AI / LLM / ソフトウェア）と、 現場側（地域の自治体・事業者・学生コミュニティ）の 両方に足を置けることを自分の強みと捉え、 「現場で起きている面倒をコードと仕組みで軽くする」 という距離感で動いています。"
-  },
-  {
-    "objectID": "posts/example-regional/index.html#内容",
-    "href": "posts/example-regional/index.html#内容",
-    "title": "地域創生に関するサンプル記事",
-    "section": "内容",
-    "text": "内容\nここに地域創生に関する内容を書きます。\n\n地域の課題\n解決策\n今後の展望"
-  },
-  {
-    "objectID": "tag-regional-development.html#自己紹介-about-me",
-    "href": "tag-regional-development.html#自己紹介-about-me",
-    "title": "#地域創生",
-    "section": "自己紹介 | About Me",
-    "text": "自己紹介 | About Me\n大和 弘明 (Hiroaki Yamato) — 大阪公立大学 在学中。 LLMエンジニアとして Arcra に関わりつつ、 いくつかのプロジェクトを横断的に動かしています。 特に ControlTower をはじめとする 「地域・組織・人のあいだに立って情報と意思決定を捌く」 タイプの取り組みに軸足を置いています。\nテクノロジー側（AI / LLM / ソフトウェア）と、 現場側（地域の自治体・事業者・学生コミュニティ）の 両方に足を置けることを自分の強みと捉え、 「現場で起きている面倒をコードと仕組みで軽くする」 という距離感で地域創生に関わっています。"
-  },
-  {
-    "objectID": "tag-regional-development.html#地域創生について-regional-revitalization",
-    "href": "tag-regional-development.html#地域創生について-regional-revitalization",
-    "title": "#地域創生",
-    "section": "地域創生について | Regional Revitalization",
-    "text": "地域創生について | Regional Revitalization\n地域創生（Regional Revitalization / Community Revitalization）は、 人口減少や経済的停滞に直面する地域に、 新しい経済循環・文化・つながりを生み出していく営みです。\nこのページでは、私が地域創生というテーマに対して どのような立場で関わり、どんな問いを持って取り組んでいるかを 整理しつつ、関連する記事・活動をまとめていきます。\n\nCR副専攻を修了 | Completed CR Minor\n学部課程では CR副専攻（Community Revitalization 副専攻 / 地域再生副専攻） を履修し、修了しました。地域に飛び込んで課題と接点を持つための フィールドワーク、自治体・地域プレイヤーとの協働、プロジェクト設計の 一連のプロセスを体験的に学び、これが現在の地域創生への関心の 基盤になっています。"
-  },
-  {
-    "objectID": "tag-regional-development.html#関連記事-posts",
-    "href": "tag-regional-development.html#関連記事-posts",
-    "title": "#地域創生",
-    "section": "関連記事 | Posts",
-    "text": "関連記事 | Posts"
-  },
-  {
-    "objectID": "tag-outreach.html",
-    "href": "tag-outreach.html",
-    "title": "#発信",
-    "section": "",
-    "text": "発信に関する記事一覧です。\n\n\n\n\n\n\n\n\n一致なし"
-  },
-  {
-    "objectID": "tag-research.html",
-    "href": "tag-research.html",
-    "title": "#研究",
-    "section": "",
-    "text": "研究に関する記事一覧です。\n\n\n\n\n\n\n\n\n一致なし"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "直接のブログたち",
-    "section": "",
-    "text": "ブログ開始のお知らせ\n\n\n\n起業\n\n地域創生\n\n\n\n新しくブログ機能を追加しました!\n\n\n\n\n\n2025/01/21\n\n\n\n\n\n\n\n\n\n\n\n\n起業に関するサンプル記事\n\n\n\n起業\n\n\n\nこれは起業タグのサンプル記事です\n\n\n\n\n\n2025/01/20\n\n\n\n\n\n\n\n\n\n\n\n\n地域創生に関するサンプル記事\n\n\n\n地域創生\n\n\n\nこれは地域創生タグのサンプル記事です\n\n\n\n\n\n2025/01/19\n\n\n\n\n\n一致なし"
-  },
-  {
-    "objectID": "tag-ai.html",
-    "href": "tag-ai.html",
-    "title": "#AI",
-    "section": "",
-    "text": "AIに関する記事一覧です。\n\n\n\n\n\n\n\n\n一致なし"
-  },
-  {
-    "objectID": "tag-startup.html",
-    "href": "tag-startup.html",
-    "title": "#起業",
-    "section": "",
-    "text": "起業に関する記事一覧です。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nブログ開始のお知らせ\n\n\n新しくブログ機能を追加しました!\n\n\n\n\n\n2025/01/21\n\n\n\n\n\n\n\n\n\n\n\n\n起業に関するサンプル記事\n\n\nこれは起業タグのサンプル記事です\n\n\n\n\n\n2025/01/20\n\n\n\n\n\n一致なし"
-  },
-  {
-    "objectID": "tag-student-life.html",
-    "href": "tag-student-life.html",
-    "title": "#学生生活",
-    "section": "",
-    "text": "学生生活に関する記事一覧です。\n\n\n\n\n\n\n\n\n一致なし"
-  },
-  {
-    "objectID": "publication.html",
-    "href": "publication.html",
-    "title": "Publications",
-    "section": "",
-    "text": "See also Google Scholar, ACL Anthology, and researchmap."
-  },
-  {
-    "objectID": "publication.html#preprint",
-    "href": "publication.html#preprint",
-    "title": "Publications",
-    "section": "Preprint",
-    "text": "Preprint\n\nKentaro Kurihara, Masato Mita, Peinan Zhang, Shota Sasaki, Ryosuke Ishigami, Naoaki Okazaki. “LCTG Bench: LLM Controlled Text Generation Benchmark”. arXiv:2501.15875\nAkihiko Kato, Masato Mita, Soichiro Murakami, Ukyo Honda, Sho Hoshino, Peinan Zhang. “FaithCAMERA: Construction of a Faithful Dataset for Ad Text Generation”. arXiv:2410.03839"
-  },
-  {
-    "objectID": "publication.html#international-conference",
-    "href": "publication.html#international-conference",
-    "title": "Publications",
-    "section": "International Conference",
-    "text": "International Conference\n\nHiroto Otake, Peinan Zhang, Yusuke Sakai, Masato Mita, Hiroki Ouchi, Taro Watanabe. BannerBench: Benchmarking Vision Language Models for Multi-Ad Selection with Human Preferences. Findings of EMNLP 2025.\nAoimi Koyama, Masato Mita, Su-Youn Yoon, Yasufumi Takama, Mamoru Komachi. “Targeted Syntactic Evaluation for Grammatical Error Correction.” Proceedings of the ACL 2025.\nMasato Mita, Ryo Yoshida, Yohei Oseki. “Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition.” Proceedings of the ACL 2025.\nPeinan Zhang, Yusuke Sakai, Masato Mita, Hiroki Ouchi, Taro Watanabe. “AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising.” Proceedings of the NAACL 2025.\nAyako Sato, Tosho Hirasawa, Hwichan Kim, Zhousi Chen, Teruaki Oka, Masato Mita, Mamoru Komachi. “DejaVu: Disambiguation evaluation dataset for English-JApanese machine translation on VisUal information.” Proceedings of the PACLIC 2024.\nMasato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. “Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation.” Proceedings of the ACL 2024.\nMasamune Kobayashi, Masato Mita, Mamoru Komachi. “Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction.” Proceedings of the BEA 2024.\nMasato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. “Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond.” Proceedings of the BEA 2024.\nGo Inoue, Akihiko Kato, Masato Mita, Ukyo Honda and Peinan Zhang. “CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese.” Proceedings of the LREC-COLING 2024.\nNaoya Ueda, Masato Mita, Teruaki Oka and Mamoru Komachi. “Token-length Bias in Minimal-pair Paradigm Datasets.” Proceedings of the LREC-COLING 2024.\nZizheng Zhang, Masato Mita, Mamoru Komachi. “ClozEx: A Task toward Generation of English Cloze Explanation.” Findings of the EMNLP 2023.\nRyo Nagata, Masato Hagiwara, Kazuaki Hanawa, Masato Mita. “A Report on FCG GenChal 2022: Shared Task on Feedback Comment Generation for Language Learners.” Proceedings of the INLG 2023.\nYusuke Ide, Masato Mita, Adam Nohejl, Hiroki Ouchi, and Taro Watanabe. “Japanese Lexical Complexity for Non-Native Readers: a New Dataset.” Proceedings of the BEA 2023.\nZizheng Zhang, Masato Mita, Mamoru Komachi. “Cloze Quality Estimation for Language Assessment.” Findings of EACL 2023.\nYujin Takahashi, Masahiro Kaneko, Masato Mita, Mamoru Komachi. “ProQE: Proficiency-wise Quality Estimation dataset for Grammatical Error Correction” Proceedings of the LREC 2022.\nDaisuke Suzuki, Yujin Takahashi, Ikumi Yamashita, Taichi Aida, Tosho Hirasawa, Michitaka Nakatsuji, Masato Mita, Mamoru Komachi. “Construction of a Quality Estimation Dataset for Automatic Evaluation of Japanese Grammatical Error Correction.” Proceedings of the LREC 2022.\nRyo Nagata, Masato Hagiwara, Kazuaki Hanawa, Masato Mita, Artem Chernodub, Olena Nahorna. “Shared Task on Feedback Comment Generation for Language Learners.” Proceedings of the INLG 2021.\nMasato Mita, Hitomi Yanaka. “Do Grammatical Error Correction Models Realize Grammatical Generalization?.” Findings of the ACL-IJCNLP 2021.\nTakumi Gotou, Ryo Nagata, Masato Mita, Kazuaki Hanawa. “Taking the Correction Difficulty into Account in Grammatical Error Correction Evaluation.” Proceedings of the COLING 2020.\nRyo Fujii, Masato Mita, Kaori Abe, Kazuaki Hanawa, Makoto Morishita, Jun Suzuki, Kentaro Inui. “PheMT: A Phenomenon-wise Dataset for Machine Translation Robustness on User-Generated Contents.” Proceedings of the COLING 2020.\nMasato Mita, Shun Kiyono, Masahiro Kaneko, Jun Suzuki, Kentaro Inui. “A Self-Refinement Strategy for Noise Reduction in Grammatical Error Correction.” Findings of the EMNLP 2020.\nHiroaki Funayama, Shota Sasaki, Yuichiro Matsubayashi, Tomoya Mizumoto, Jun Suzuki, Masato Mita, Kentaro Inui. “Preventing Critical Scoring Errors in Short Answer Scoring with Confidence Estimation.” Proceedings of the ACL SRW 2020.\nMasahiro Kaneko, Masato Mita, Shun Kiyono, Jun Suzuki, Kentaro Inui. “Can Encoder-decoder Models Benefit from Pre-trained Language Representation in Grammatical Error Correction?.” Proceedings of the ACL 2020.\nMasato Hagiwara, Masato Mita. “GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors.” Proceedings of the LREC 2020.\nShun Kiyono, Jun Suzuki, Masato Mita, Tomoya Mizumoto, Kentaro Inui. “An Empirical Study of Incorporating Pseudo Data to Grammatical Error Correction.” Proceedings of EMNLP-IJCNLP 2019.\nHiroki Asano, Masato Mita, Tomoya Mizumoto, Jun Suzuki. “The AIP-Tohoku System at the BEA-2019 Shared Task.” Proceedings of the BEA 2019. 🏆 2nd place at the unrestricted track\nMasato Mita, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. “Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?.” Proceedings of the NAACL-HLT 2019.\nTomoya Mizumoto, Masato Mita, Yuji Matsumoto. “Grammatical Error Correction Considering Multi-word Expressions.” Proceedings of the TEA 2015."
-  },
-  {
-    "objectID": "publication.html#journal",
-    "href": "publication.html#journal",
-    "title": "Publications",
-    "section": "Journal",
-    "text": "Journal\n\nHongfei Wang, Zhousi Chen, Zizheng Zhang, Zhidong Ling, Xiaomeng Pan, Wenjie Duan, Masato Mita, Mamoru Komachi. “Revisiting the Evaluation for Chinese Grammatical Error Correction.” Journal of Advanced Computational Intelligence and Intelligent Informatics. Vol.28, No.6.\nUkyo Honda, Tatsushi Oka, Peinan Zhang, Masato Mita. “Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding.” Transactions of the Association for Computational Linguistics (TACL).\nMasamune Kobayashi, Masato Mita, Mamoru Komachi. “Revisiting Meta-evaluation for Grammatical Error Correction.” Transactions of the Association for Computational Linguistics (TACL).\nZizheng Zhang, Masato Mita, Mamoru Komachi. “Cloze Quality Estimation for Language Assessment.” Journal of Natural Language Processing (in Japanese) Vol.31, No.2.\nAomi Koyama, Tomoshige Kiyuna, Kenji Kobayashi, Mio Arai, Masato Mita, Teruaki Oka and Mamoru Komachi. “Construction of an Error-Tagged Evaluation Corpus for Japanese Grammatical Error Correction.” Journal of Natural Language Processing (in Japanese) Vol.30, No.2.\nHongfei Wang, Michiki Kurosawa, Satoru Katsumata, Masato Mita, Mamoru Komachi. “Chinese Grammatical Error Correction Using Pre-trained Models and Pseudo Data.” Transactions on Asian and Low-Resource Language Information Processing (TALIP).\nIkumi Yamashita, Masahiro Kaneko, Masato Mita, Satoru Katsumata, Aizhan Imankulova, Mamoru Komachi. “Grammatical Error Correction with Pre-trained Model and Multilingual Learner Corpus for Cross-lingual Transfer Learning.” Journal of Natural Language Processing (in Japanese) Vol.29, No.2.\nRyo Fujii, Masato Mita, Kaori Abe, Kazuaki Hanawa, Makoto Morishita, Jun Suzuki, Kentaro Inui. “Phenomenon-wise Evaluation Dataset Towards Analyzing Robustness of Machine Translation Models.” Journal of Natural Language Processing (in Japanese) Vol.28, No.2.\nMasato Mita, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. “Cross-Sectional Evaluation of Grammatical Error Correction Models.” Journal of Natural Language Processing (in Japanese) Vol.28, No.1."
-  },
-  {
-    "objectID": "publication.html#domestic-conference",
-    "href": "publication.html#domestic-conference",
-    "title": "Publications",
-    "section": "Domestic Conference",
-    "text": "Domestic Conference\n\n山口美咲, 三田雅人, 大関洋平. 大規模言語モデルによる人間の表記認知の定量化. 第20回YANSシンポジウム (YANS2025).\n大竹啓永, 張培楠, 坂井優介, 三田雅人, 大内啓樹, 渡辺太郎. “広告画像ランキングによる視覚言語モデルの評価.” 言語処理学会第31回年次大会(NLP2025)\n本多右京, 岡達志, 張培楠, 三田雅人. “Mixture-of-Expertsの悲観的な統合による頑健な自然言語理解.” 言語処理学会第31回年次大会(NLP2025) 🏆 委員特別賞\n加藤明彦, 三田雅人, 村上聡一郎, 本多右京, 星野翔, 張培楠. “FaithCAMERA: 広告文生成タスクのための忠実性を担保した評価データセットの構築.” 言語処理学会第31回年次大会(NLP2025) 🏆 委員特別賞\n三田雅人, 吉田遼, 深津聡世, 大関洋平. “作業記憶の発達的特性が言語獲得の臨界期を形成する.” 言語処理学会第31回年次大会(NLP2025) [Errata] [発表資料] 🏆 最優秀賞\n三田雅人, 村上聡一郎, 本多右京, 岡達志. “AdPsyche: 広告心理学に基づく選好データセット” 言語処理学会第31回年次大会(NLP2025)\n佐藤郁子, 金輝燦, 陳宙斯, 三田雅人, 小町守. “アライメントが大規模言語モデルの数値バイアスに与える影響” 言語処理学会第31回年次大会(NLP2025)\n佐藤郁子, 金輝燦, 陳宙斯, 三田雅人, 小町守. テキスト評価におけるLLMアラインメント手法の影響分析. 第19回YANSシンポジウム (YANS2024).\n栗原 健太郎, 三田 雅人, 張 培楠, 佐々木 翔太, 石上 亮介, 岡崎 直観. “LCTG Bench: 日本語 LLM の制御性ベンチマークの構築.” 言語処理学会第30回年次大会 (NLP2024).\n上田 直生也, 三田 雅人, 小町 守. “Minimul-pair Paradigmデータセットにおけるトークン長バイアスの分析と改善.” 言語処理学会第30回年次大会 (NLP2024).\n小林 正宗, 三田 雅人, 小町 守. “文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性.” 言語処理学会第30回年次大会 (NLP2024). 🏆 優秀賞\nZizheng Zhang, Masato Mita, Mamoru Komachi. “A Task of Cloze Explanation Generation for ESL Learning.” 言語処理学会第30回年次大会 (NLP2024).\n小林 正宗, 三田 雅人, 小町 守. “文法誤り訂正におけるメタ評価の再考.” 第258回自然言語処理研究会 🏆 優秀研究賞\n栗原 健太郎, 佐々木 翔大, 張 培楠, 石上 亮介, 三田 雅人, 加藤 明彦. “日本語LLMベンチマーク構築に向けて.” NLP若手の会第18回シンポジウム (YANS2023). 🏆 奨励賞\n三田 雅人, 本多 右京, 張 培楠. “英語広告文生成のためのペルソナ型評価基盤の構築に向けて.” NLP若手の会第18回シンポジウム (YANS2023).\n上田 直生也, 三田 雅人, 小町 守. “文法性評価ベンチマークBLiMPにおけるバイアス除去.” NLP若手の会第18回シンポジウム (YANS2023).\n三田 雅人, 村上 聡一朗, 張 培楠. “広告文生成タスクの規定とベンチマーク構築.” 言語処理学会第29回年次大会 (NLP2023). 🏆 委員特別賞\n加藤 明彦, 大田 和寛, 村上 聡一朗, 三田 雅人, 本多 右京, 張 培楠. “広告データセットに内在する幻覚の分析.” 言語処理学会第29回年次大会 (NLP2023).\n張 培楠, 坂井 優介, 三田 雅人, 大内 啓樹, 渡辺 太郎. “AdGLUE: 広告言語理解ベンチマーク.” 言語処理学会第29回年次大会 (NLP2023).\n小山 碧海, 喜友名 朝視顕, 三田 雅人, 岡 照晃, 小町 守. “日本語文法誤り訂正評価コーパスへの誤用タグ付け.” 第253回自然言語処理研究会.\n五藤 巧, 永田 亮, 三田 雅人. “文法誤り訂正における訂正難易度の判別可能性.” 第252回自然言語処理研究会. 🏆 若手奨励賞（筆頭著者のみ受賞）\n松本 悠太, 林崎 由, 北山 晃太郎, 舟山 弘晃, 三田 雅人, 乾健太郎. “日本語学習者支援のための敬語変換タスクの提案.” 第36回人工知能学会全国大会.\n三田 雅人, 坂口 慶祐, 萩原 正人, 水本 智也, 鈴木 潤, 乾 健太郎. “論述リビジョンのためのメタ評価基盤.” 言語処理学会第28回年次大会 (NLP2022). 🏆 優秀賞\n木山 朔, 上坂 奏人, 佐藤 郁子, 佐藤 京也, 米田 悠人, 小山 碧海, 三田 雅人, 岡 照晃, 小町 守. “日本語文法誤り訂正の流暢性評価に向けたデータ作成.” 言語処理学会第28回年次大会 (NLP2022). 🏆 若手奨励賞（筆頭著者のみ受賞）\n小林 正宗, 高橋 悠進, 三田 雅人, 小町 守. “ニューラル文法誤り訂正システムにおけるリランキングの改善に向けたオラクル分析.” 言語処理学会第28回年次大会 (NLP2022).\n北山 晃太郎, 松本 悠太, 舟山 弘晃, 松林 優一郎, 三田 雅人, 乾 健太郎. “日本語学習者支援のための敬語誤り訂正タスクの提案.” NLP若手の会第16回シンポジウム (YANS2021).\n五藤 巧, 永田 亮, 三田 雅人. “文法誤りの訂正難易度の判別における人とシステムの一致調査.” NLP若手の会第16回シンポジウム (YANS2021).\n三田 雅人, 萩原 正人, 坂口 慶祐, 水本 智也, 鈴木 潤, 乾 健太郎. “論述リライトタスクの提案と自動評価の実現に向けて.”” 言語処理学会第27回年次大会 (NLP2021) ワークショップ「文章の評価と品質推定」.\n三田 雅人, 谷中 瞳. “文法誤り訂正モデルは訂正に必要な文法を学習しているか.” 言語処理学会第27回年次大会 (NLP2021).\n三田 雅人, 谷中 瞳. “文法誤り訂正モデルは文法知識を汎化しているか.” NLP若手の会第15回シンポジウム (YANS2020).\n松本 悠太, 藤井 諒, 阿部 香央莉, 舟山 弘晃, 三田 雅人. “漢字の意味構造を考慮した複数のニューラル漢字創作システムの比較検討.” NLP若手の会第15回シンポジウム (YANS2020).\n藤井 諒, 三田 雅人, 阿部 香央莉, 塙 一晃, 森下 睦, 鈴木 潤, 乾 健太郎. “ユーザ生成コンテンツの高品質な自動翻訳に向けた言語現象の体系的分析.” 第34回人工知能学会全国大会.\n舟山 弘晃, 佐々木 翔太, 水本 智也, 三田 雅人, 鈴木潤, 松林優一郎, 乾健太郎. “記述式答案自動採点のための確信度推定手法の検討.” 言語処理学会第26回年次大会 (NLP2020).\n五藤 巧, 永田 亮, 三田 雅人, 塙 一晃. “訂正難易度を考慮した文法誤り訂正のための性能評価尺度.” 言語処理学会第26回年次大会 (NLP2020).\n清野 舜, 鈴木 潤, 三田 雅人, 水本 智也, 乾 健太郎. “大規模疑似データを用いた高性能文法誤り訂正モデルの構築.” 言語処理学会第26回年次大会 (NLP2020). 🏆 優秀賞\n三田 雅人, 清野 舜, 金子 正弘, 鈴木 潤, 乾 健太郎. “文法誤り訂正のための自己改良戦略に基づくノイズ除去.” 言語処理学会第26回年次大会 (NLP2020). 🏆 若手奨励賞（筆頭著者のみ受賞）\nMasato Mita, Masato Hagiwara, Keisuke Sakaguchi, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. “Automated Essay Rewriting (AER): Grammatical Error Correction, Fluency Edits, and Beyond.” 第241回自然言語処理研究会.\n舟山弘晃, 佐々木翔太, 水本智也, 三田雅人, 鈴木潤, 乾健太郎. “自動採点における確信度推定手法.” NLP若手の会 第14回シンポジウム (YANS2019).\n五藤 巧, 永田 亮, 三田 雅人, 塙 一晃, 水本 智也. “文法誤り訂正における問題の難しさを考慮した性能評価尺度の提案.” NLP若手の会第14回シンポジウム (YANS2019). 🏆 萌芽研究賞\n藤井 諒, 舟山 弘晃, 北山 晃太郎, 阿部 香央莉, Ana brassard, 三田 雅人, 大内 啓樹. “seq2seqによる部首を考慮したニューラル漢字生成システム.” NLP若手の会 第14回シンポジウム (YANS2019).\n金子 正弘, 三田 雅人, 鈴木 潤, 乾 健太郎. “コロケーション・イディオム誤りを考慮した文法誤り訂正のための擬似データ生成.” NLP若手の会第14回シンポジウム (YANS2019).\n藤井 諒, 阿部 香央莉, 塙 一晃, 三田 雅人, 鈴木 潤, 乾 健太郎. “文法誤りに頑健な機械翻訳システムの実現に向けた敵対性ノイズの検討.” NLP若手の会第14回シンポジウム (YANS2019).\n三田 雅人, 萩原 正人, 坂口 慶祐, 水本 智也, 鈴木 潤, 乾 健太郎. “文法誤り訂正を拡張した新タスクの提案.” NLP若手の会 第14回シンポジウム (YANS2019). 🏆 奨励賞\n三田 雅人, 水本 智也, 金子 正弘, 永田 亮, 乾 健太郎. “文法誤り訂正のコーパス横断評価: 単一コーパス評価で十分か?.” 言語処理学会第25回年次大会 (NLP2019).\n三田 雅人, 水本 智也, 大内 啓樹, 永田 亮, 乾健太郎. “文法誤り訂正のための教師なし解釈性機構.” NLP若手の会第13回シンポジウム (YANS2018).\n三田 雅人, 水本 智也, 松本 裕治. “文脈を考慮した前置詞誤り訂正に向けた前置詞とその潜在意味関係の同時解析.” 言語処理学会第22回年次大会 (NLP2016).\n三田 雅人, 村上 浩司. “模倣学習を用いた階層的商品分類.” 言語処理学会第22回年次大会 (NLP2016).\n水本 智也, 三田 雅人. “Project Next 英文校正タスク: 前置詞誤りを対象とした誤り分析.” 言語処理学会第21回年次大会 (NLP2015).\n三田 雅人, 水本 智也. “Project Next 英文校正タスクの前置詞誤りエラー分析に向けて.” NLP若手の会 第9回シンポジウム (YANS2014)."
-  },
-  {
-    "objectID": "posts/welcome/index.html#タグについて",
-    "href": "posts/welcome/index.html#タグについて",
-    "title": "ブログ開始のお知らせ",
-    "section": "タグについて",
-    "text": "タグについて\n\n#起業: スタートアップや起業に関する記事\n#地域創生: 地域活性化や地方創生に関する記事\n\n今後、様々なトピックについて発信していきます。\nタグをクリックすると、そのタグに関連する記事の一覧が表示されます。"
-  },
-  {
-    "objectID": "posts/example-startup/index.html#内容",
-    "href": "posts/example-startup/index.html#内容",
-    "title": "起業に関するサンプル記事",
-    "section": "内容",
-    "text": "内容\nここに起業に関する内容を書きます。\n\nポイント1\nポイント2\nポイント3"
   }
 ]

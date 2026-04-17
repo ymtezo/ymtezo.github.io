@@ -1,30 +1,13 @@
 [
   {
-    "listing": "/tag-regional-development.html",
-    "items": [
-      "/posts/welcome/index.html",
-      "/posts/example-regional/index.html"
-    ]
-  },
-  {
     "listing": "/tag-outreach.html",
     "items": []
   },
   {
-    "listing": "/tag-research.html",
-    "items": []
-  },
-  {
-    "listing": "/blog.html",
+    "listing": "/tag-student-life.html",
     "items": [
-      "/posts/welcome/index.html",
-      "/posts/example-startup/index.html",
-      "/posts/example-regional/index.html"
+      "/posts/osaka-near-university/index.html"
     ]
-  },
-  {
-    "listing": "/tag-ai.html",
-    "items": []
   },
   {
     "listing": "/tag-startup.html",
@@ -34,7 +17,29 @@
     ]
   },
   {
-    "listing": "/tag-student-life.html",
+    "listing": "/tag-ai.html",
     "items": []
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/good-things-impressions/index.html",
+      "/posts/osaka-near-university/index.html",
+      "/posts/welcome/index.html",
+      "/posts/example-startup/index.html",
+      "/posts/example-regional/index.html"
+    ]
+  },
+  {
+    "listing": "/tag-research.html",
+    "items": []
+  },
+  {
+    "listing": "/tag-regional-development.html",
+    "items": [
+      "/posts/osaka-near-university/index.html",
+      "/posts/welcome/index.html",
+      "/posts/example-regional/index.html"
+    ]
   }
 ]
