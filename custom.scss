@@ -13,7 +13,7 @@ $primary: #5ce69f;
   box-sizing: border-box;
   background: #fafafa;
   z-index: 0;
-  opacity: 0.25;
+  opacity: 0.35;
   pointer-events: none;
 }
 
@@ -77,21 +77,21 @@ a {
   text-decoration: none;
 }
 
-/* コンテンツエリアを前面に、背景を白く */
+/* コンテンツエリアを前面に、背景を半透明にして背後のレンガを透かす */
 main.content,
 .quarto-title-block,
 #quarto-content,
 article {
   position: relative;
   z-index: 1;
-  background: rgba(255, 255, 255, 0.95) !important;
+  background: rgba(255, 255, 255, 0.82) !important;
   padding: 1rem;
 }
 
 #heading {
   position: relative;
   z-index: 1;
-  background: rgba(255, 255, 255, 0.95) !important;
+  background: rgba(255, 255, 255, 0.82) !important;
   padding: 1rem;
   border-radius: 8px;
 }
@@ -133,17 +133,14 @@ a:hover {
 
 
 body {
-  background: #ffffff !important;
+  background: transparent !important;
   color: #333 !important;
   font-size: 9px;
 }
 
-main.content,
 .navbar,
 .sidebar,
 .nav-footer,
-.quarto-title-block,
-.section,
 .callout,
 .callout-note {
   color: #333 !important;
