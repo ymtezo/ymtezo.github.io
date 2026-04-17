@@ -1,0 +1,16 @@
+---
+title: "#発信"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  filter-ui: false
+  include:
+    categories: "発信"
+  fields: [image, date, title, description]
+page-layout: full
+title-block-banner: true
+---
+
+発信に関する記事一覧です。
