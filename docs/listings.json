@@ -1,14 +1,17 @@
 [
   {
-    "listing": "/tag-student-life.html",
+    "listing": "/tag-regional-development.html",
+    "items": [
+      "/posts/welcome/index.html",
+      "/posts/example-regional/index.html"
+    ]
+  },
+  {
+    "listing": "/tag-outreach.html",
     "items": []
   },
   {
     "listing": "/tag-research.html",
-    "items": []
-  },
-  {
-    "listing": "/tag-outreach.html",
     "items": []
   },
   {
@@ -24,17 +27,14 @@
     "items": []
   },
   {
-    "listing": "/tag-regional-development.html",
-    "items": [
-      "/posts/welcome/index.html",
-      "/posts/example-regional/index.html"
-    ]
-  },
-  {
     "listing": "/tag-startup.html",
     "items": [
       "/posts/welcome/index.html",
       "/posts/example-startup/index.html"
     ]
+  },
+  {
+    "listing": "/tag-student-life.html",
+    "items": []
   }
 ]
