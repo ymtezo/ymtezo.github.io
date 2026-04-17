@@ -2,3 +2,34 @@
 title: "ご支援いただきたく"
 ---
 
+> Could I ask for your assistance with…?
+
+## 情報をいただきたい
+
+日々困っていて、知っている方がいたら教えてほしいこと。
+
+- コンタクトレンズどうやって買っていますか？
+- 手書きメモを写真で取ってスライドにする方法（特に、手書き文字をテキスト化し、図形をきれいにレンダリングしてくれる機能のあるもの）
+
+### これ知ってますか？（随時更新）
+
+以下は Notion で管理している Q&A DB をそのまま埋め込んでいます。
+
+<iframe src="https://pleasant-cost-eb5.notion.site/924cd32d90b58290bebf0103dd2f0419" width="100%" height="600" frameborder="0" style="border: 1px solid #ddd; border-radius: 8px;"></iframe>
+
+## モノ・ツールとしてご支援いただきたい
+
+共感とご協力のお願いです。
+
+- Amazon ほしいものリスト
+- 楽天
+- Play Store
+- Mastodon / Signal / Telegram / Lemon8 等のアカウント連携
+
+## 金銭的なご支援
+
+- Buy Me a Coffee
+
+::: {.callout-note}
+順次リンクを整備していきます。
+:::
