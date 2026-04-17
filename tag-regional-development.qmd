@@ -13,4 +13,14 @@ page-layout: full
 title-block-banner: true
 ---
 
-地域創生に関する記事一覧です。
+## 地域創生について | Regional Revitalization
+
+地域創生（Regional Revitalization / Community Revitalization）は、
+人口減少や経済的停滞に直面する地域に、
+新しい経済循環・文化・つながりを生み出していく営みです。
+
+このページでは、私が地域創生というテーマに対して
+どのような立場で関わり、どんな問いを持って取り組んでいるかを
+整理しつつ、関連する記事・活動をまとめていきます。
+
+## 関連記事 | Posts

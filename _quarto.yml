@@ -10,6 +10,8 @@ website:
     left:
       - text: "ブログ"
         file: blog.qmd
+      - text: "地域創生"
+        file: tag-regional-development.qmd
       - text: "連絡先"
         file: contact.qmd
       - text: "Topics"
